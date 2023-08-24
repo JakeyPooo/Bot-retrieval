@@ -1,0 +1,622 @@
+﻿Campus,Term,Career,Class Nbr,Subject,Catalog Nbr,Title,Class Section,Course ID,Component Units,Facility ID,Meeting Start,Meeting End,Standard Meeting Pattern,Last Name,Initials,Enrollment Capacity,Enrollment Total,Learning Mode Descr
+SDSU,Fall 2023,UGRD,5679,A E,123,The Aerospace Engineer,1001,4039,1,HT140,1:00 PM,1:50 PM,W,Fogel,G,190,186,Face-to-face
+SDSU,Fall 2023,UGRD,6514,M E,190,Computer-Aided Design,6002,37991,1,E221,6:00 PM,8:40 PM,F,Lee,A,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,6518,M E,200,Statics,2001,36647,3,HH214,9:30 AM,10:45 AM,TR,Adibi Sedeh,S,80,80,Face-to-face
+SDSU,Fall 2023,UGRD,6734,M E,220,Dynamics,1001,36648,3,SH123,4:00 PM,5:15 PM,MW,Naseradinmousavi,P,70,26,Face-to-face
+SDSU,Fall 2023,UGRD,6735,M E,220,Dynamics,2001,36648,3,PSFA350,2:00 PM,3:15 PM,TR,Pakravan,A,80,61,Face-to-face
+SDSU,Fall 2023,UGRD,5878,A E, 460A,Aerosp Engr Applications,2001,36811,1,M245,8:00 AM,8:50 AM,M,Machuca Varela,P,60,52,Face-to-face
+SDSU,Fall 2023,UGRD,5879,A E, 460A,Aerosp Engr Applications,2002,36811,1,M245,9:00 AM,9:50 AM,M,Machuca Varela,P,60,52,Face-to-face
+SDSU,Fall 2023,UGRD,5880,A E, 460A,Aerosp Engr Applications,2003,36811,1,M245,10:00 AM,10:40 AM,M,Machuca Varela,P,60,52,Face-to-face
+SDSU,Fall 2023,UGRD,5881,A E,499,Special Study,1001,33692,3,,,,ARR,Lu,P,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,5883,A E,535,Mech of Composites Struct,1001,38018,3,GMCS329,7:00 PM,8:15 PM,TR,Capriotti,M,40,9,Face-to-face
+SDSU,Fall 2023,UGRD,5884,A E,550,Viscous Flow,1001,34188,3,PS140,12:30 PM,1:45 PM,MW,Jacobs,G,25,24,Face-to-face
+SDSU,Fall 2023,GRAD,5889,A E,601,Computational Fluid Mech,1001,15446,3,AH3127,3:30 PM,4:45 PM,TR,Popov,P,30,10,Face-to-face
+SDSU,Fall 2023,GRAD,7800,CIV E,797,Independent Research,1001,23594,3,,,,ARR,Zhao,D,1,0,Face-to-face
+SDSU,Fall 2023,GRAD,11151,M E,696,Intro to Mcro/Nanofluidcs,1001,39020,3,E201,7:00 PM,8:15 PM,TR,Park,S,40,9,Face-to-face
+SDSU,Fall 2023,GRAD,12179,M E,797,Research,3007,2344,3,,,,ARR,Camacho,J,10,2,Face-to-face
+SDSU,Fall 2023,GRAD,12187,CIV E,620,Traffic Flow Control,1,23451,3,E132,1:00 PM,3:40 PM,T,Ghanipoor Machiani,S,8,8,Face-to-face
+SDSU,Fall 2023,GRAD,11767,A E,600,Est of Dynamic Systems,1001,38172,3,E427,7:00 PM,8:15 PM,MW,Bani Younes,A,25,12,Face-to-face
+SDSU,Fall 2023,UGRD,12808,A E, 460A,Aerosp Engr Applications,3003,36811,1,M245,10:00 AM,10:50 AM,M,Machuca Varela,P,30,0,Face-to-face
+SDSU,Fall 2023,UGRD,12809,A E, 460A,Aerosp Engr Applications,3002,36811,1,M245,9:00 AM,9:50 AM,M,Machuca Varela,P,30,0,Face-to-face
+SDSU,Fall 2023,GRAD,13014,E E, 799A,Thesis or Project,2,1142,3,,,,ARR,Paolini,C,10,0,Face-to-face
+SDSU,Fall 2023,GRAD,13014,E E, 799A,Thesis or Project,2,1142,3,,,,ARR,Dallo,B,10,0,Face-to-face
+SDSU,Fall 2023,GRAD,13014,E E, 799A,Thesis or Project,2,1142,3,,,,ARR,Sanchez,C,10,0,Face-to-face
+SDSU,Fall 2023,GRAD,13014,E E, 799A,Thesis or Project,2,1142,3,,,,ARR,Fakhoury,S,10,0,Face-to-face
+SDSU,Fall 2023,GRAD,13014,E E, 799A,Thesis or Project,2,1142,3,,,,ARR,Flandez,A,10,0,Face-to-face
+SDSU,Fall 2023,GRAD,2384,E E,645,Antennas & Propagation,1001,36404,3,LH340,5:30 PM,6:45 PM,TR,Sharma,S,40,15,Face-to-face
+SDSU,Fall 2023,GRAD,2385,E E,650,Modern Commun Theory I,1001,1130,3,E427,3:30 PM,4:45 PM,TR,Nagaraj,S,40,21,Face-to-face
+SDSU,Fall 2023,GRAD,2388,E E,662,Wireless Sensor Networks,1001,29405,3,SH104,4:00 PM,5:15 PM,MW,Ozturk,Y,40,7,Face-to-face
+SDSU,Fall 2023,GRAD,2389,E E,671,Vlsi Testing,1001,38776,3,AH2134,2:00 PM,3:15 PM,MW,Huang,K,20,15,Face-to-face
+SDSU,Fall 2023,UGRD,2542,E E,310,Circuit Analysis II,2001,39336,3,E300,8:00 AM,9:15 AM,TR,Manshadi,S,49,25,Face-to-face
+SDSU,Fall 2023,UGRD,2543,E E, 584L,Power Electronics Lab,1001,35893,1,E101G,11:00 AM,1:40 PM,W,Sabzehgar,R,16,4,Face-to-face
+SDSU,Fall 2023,UGRD,2809,E E,499,Special Study,1001,1098,1,,,,ARR,Sharma,S,0,0,Face-to-face
+SDSU,Fall 2023,UGRD,2810,E E,499,Special Study,3001,1098,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,2811,E E,499,Special Study,3002,1098,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,2812,E E,499,Special Study,3003,1098,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,2813,E E,499,Special Study,3004,1098,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,7102,CIV E,444,Applied Hydraulics,2001,37146,2,SSW3620,10:00 AM,10:50 AM,MW,Davani,H,35,35,Face-to-face
+SDSU,Fall 2023,UGRD,7103,CIV E,444,Applied Hydraulics,2002,37146,1,EIS008,12:00 PM,2:40 PM,W,Davani,H,35,35,Face-to-face
+SDSU,Fall 2023,UGRD,7104,CIV E,444,Applied Hydraulics,3001,37146,2,SSW3620,11:00 AM,11:50 AM,MW,Davani,H,35,34,Face-to-face
+SDSU,Fall 2023,UGRD,7105,CIV E,444,Applied Hydraulics,3002,37146,1,EIS008,3:00 PM,5:40 PM,W,Davani,H,35,34,Face-to-face
+SDSU,Fall 2023,UGRD,7107,CIV E,462,Geotechnical Engineering,1001,23421,3,ONLINE,,,ARR,Valdes,J,45,45,"Asynchronous with mtgs, Hybrid"
+SDSU,Fall 2023,UGRD,7107,CIV E,462,Geotechnical Engineering,1001,23421,3,P145,10:00 AM,10:50 AM,F,Valdes,J,45,45,"Asynchronous with mtgs, Hybrid"
+SDSU,Fall 2023,UGRD,7108,CIV E,462,Geotechnical Engineering,1002,23421,3,E423B,8:00 AM,9:15 AM,TR,Miletic,M,45,27,Face-to-face
+SDSU,Fall 2023,UGRD,2223,COMPE,375,Embedded Syst Programming,1003,34671,1,E207,1:00 PM,3:40 PM,F,Kocal,C,30,30,Face-to-face
+SDSU,Fall 2023,UGRD,2224,COMPE,375,Embedded Syst Programming,1004,34671,1,E207,4:00 PM,6:40 PM,F,Kocal,C,30,9,Face-to-face
+SDSU,Fall 2023,UGRD,2225,COMPE,470,Digital Circuits,1001,19836,3,OP201,2:00 PM,3:15 PM,TR,Alimohammad,A,98,48,Face-to-face
+SDSU,Fall 2023,UGRD,2226,COMPE,475,Microprocessors,1001,39334,3,PSFA350,3:30 PM,4:45 PM,TR,Arnold,K,55,42,Face-to-face
+SDSU,Fall 2023,UGRD,2228,COMPE,560,Computer & Data Networks,1001,30569,3,PSFA310,5:30 PM,6:45 PM,TR,Xie,J,50,50,Face-to-face
+GLBL,Fall 2023,UGRD,12444,E E,558,Digital Communications,1,26877,3,ONLINE,,,ARR,Nguyen,H,30,25,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12445,E E,581,Power System Dynamics,1,30514,3,ONLINE,,,ARR,Ghoudjehbaklou,H,30,7,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12446,E E,584,Power Electronics,1,35892,3,ONLINE,,,ARR,Sabzehgar,R,30,17,Asynchronous no meetings AB386
+GLBL,Fall 2023,GRAD,12447,E E,652,Prin & App of Info Theory,1,9437,3,ONLINE,,,ARR,Nagaraj,S,30,14,Asynchronous no meetings AB386
+GLBL,Fall 2023,GRAD,12448,E E,798,Special Study,1,1141,3,ONLINE,,,ARR,Nagaraj,S,30,1,Asynchronous no meetings AB386
+GLBL,Fall 2023,GRAD,12449,E E,660,High Speed Net Design,1,27071,3,ONLINE,,,ARR,Al Ajrawi,S,30,5,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12338,CON E,330,Princ of Engin Economy,1,37979,3,ONLINE,,,ARR,Akhavian,R,30,7,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12339,A E,340,Fluid Mechanics,1,38493,3,ONLINE,,,ARR,Sepulveda Oyarzun,I,30,16,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12340,CIV E,321,Structural Analysis I,1,34027,3,ONLINE,,,ARR,Patel,A,30,18,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12345,CON E,101,Construction & Culture,1,37470,3,ONLINE,,,ARR,Alves,T,30,19,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12346,CIV E,100,Intro to Civil Engineerng,1,25092,1,ONLINE,,,ARR,Castellanos,C,30,17,Asynchronous no meetings AB386
+SDSU,Fall 2023,GRAD,13061,E E, 799B,Thesis or Project Exten,2,1143,0,,,,ARR,Paolini,C,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,13061,E E, 799B,Thesis or Project Exten,2,1143,0,,,,ARR,Dallo,B,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,13061,E E, 799B,Thesis or Project Exten,2,1143,0,,,,ARR,Sanchez,C,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,13061,E E, 799B,Thesis or Project Exten,2,1143,0,,,,ARR,Fakhoury,S,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,13061,E E, 799B,Thesis or Project Exten,2,1143,0,,,,ARR,Flandez,A,10,1,Face-to-face
+SDSU,Fall 2023,UGRD,4350,E E, 380L,Elec Energy Convers Lab,1001,36136,1,E101H,11:00 AM,1:40 PM,M,Betancourt,R,16,13,Face-to-face
+SDSU,Fall 2023,GRAD,12754,A E,600,Seminar,1002,33758,3,PSFA326,2:00 PM,3:15 PM,M,Machuca Varela,P,25,5,Face-to-face
+SDSU,Fall 2023,GRAD,11874,CIV E,696,Soil Multi-Physics,1002,38575,3,LSS246,4:00 PM,6:40 PM,W,Miletic,M,30,6,Face-to-face
+SDSU,Fall 2023,GRAD,11880,E E,655,Modem Design,1002,36637,3,E328,9:00 AM,9:50 AM,MWF,Nguyen,H,20,6,Face-to-face
+SDSU,Fall 2023,GRAD,11883,CON E,655,Design&Portfolio Mngmt,1001,29490,3,E328,7:00 PM,9:40 PM,M,Umstot,D,20,12,Face-to-face
+SDSU,Fall 2023,UGRD,6781,M E,350,Thermodynamics,2001,37998,3,HH221,9:30 AM,10:45 AM,TR,Camacho,J,90,87,Face-to-face
+SDSU,Fall 2023,UGRD,6782,M E,360,Fluids Engineering,1001,37999,3,LH343,5:30 PM,6:45 PM,TR,Lehman,A,80,62,Face-to-face
+SDSU,Fall 2023,UGRD,6783,M E,360,Fluids Engineering,2001,37999,3,PS130,3:30 PM,4:45 PM,MW,Lehman,A,80,79,Face-to-face
+SDSU,Fall 2023,UGRD,6784,M E,420,Fundamentals Manufacturng,1001,37873,3,M120,4:00 PM,5:15 PM,TR,Wield,P,70,70,Face-to-face
+SDSU,Fall 2023,UGRD,6786,M E,420,Fundamentals Manufacturng,2001,37873,3,GMCS309,5:30 PM,6:45 PM,MW,Heydari Gharahcheshmeh,M,60,58,Face-to-face
+SDSU,Fall 2023,UGRD,7048,CIV E,401,Civil Engin and Society,1002,25098,1,SH119,9:00 AM,9:50 AM,W,Faraone,G,50,40,Face-to-face
+SDSU,Fall 2023,UGRD,7049,CIV E,421,Reinforced Concrete Desgn,1001,23417,3,LH437,12:30 PM,1:45 PM,TR,Bayasi,M,70,70,Face-to-face
+SDSU,Fall 2023,UGRD,7000,CIV E,100,Intro to Civil Engineerng,1001,25092,1,SHW011,12:00 PM,12:50 PM,W,Prince,J,216,170,Face-to-face
+SDSU,Fall 2023,UGRD,7001,CIV E,160,Stat Meth Built Environ,1001,31494,3,LSS365,9:30 AM,10:45 AM,TR,Jahangiri,A,60,45,Face-to-face
+SDSU,Fall 2023,UGRD,7002,CIV E,160,Stat Meth Built Environ,1002,31494,3,PS130,2:00 PM,3:15 PM,TR,Jahangiri,A,60,45,Face-to-face
+SDSU,Fall 2023,UGRD,7003,CIV E,218,Survey Civ Eng & Constrct,1001,37900,2,LH347,3:00 PM,4:50 PM,F,Urquhart,B,50,32,Face-to-face
+SDSU,Fall 2023,UGRD,7004,CIV E,218,Survey Civ Eng & Constrct,1002,37900,1,E201,11:00 AM,1:40 PM,F,Urquhart,B,25,20,Face-to-face
+SDSU,Fall 2023,UGRD,7686,A E,499,Special Study,2003,33692,2,,,,ARR,Katz,J,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7687,A E,499,Special Study,2004,33692,2,,,,ARR,Venkataraman,S,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7688,A E,499,Special Study,2005,33692,2,,,,ARR,Liu,X,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7689,A E,499,Special Study,2006,33692,2,,,,ARR,Bani Younes,A,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7690,A E,499,Special Study,2007,33692,2,,,,ARR,Chen,J,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7691,A E,499,Special Study,2008,33692,2,,,,ARR,Popov,P,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7692,A E,499,Special Study,2009,33692,2,,,,ARR,Capriotti,M,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7693,A E,499,Special Study,2010,33692,2,,,,ARR,Lu,P,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7694,A E,499,Special Study,3001,33692,3,,,,ARR,Demasi,L,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7695,CIV E,499,Special Study,1001,23434,3,,,,ARR,Zhao,D,1,0,Face-to-face
+SDSU,Fall 2023,UGRD,7696,A E,499,Special Study,3002,33692,3,,,,ARR,Jacobs,G,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7697,A E,499,Special Study,3003,33692,3,,,,ARR,Katz,J,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,5933,A E,621,Theory of Elasticity,1001,33760,3,M206,5:30 PM,6:45 PM,MW,Venkataraman,S,40,5,Face-to-face
+SDSU,Fall 2023,GRAD,11410,A E,696,Exprmntl Fluid Dynamics,1002,35157,1,E123,5:00 PM,6:50 PM,TR,Liu,X,40,5,Face-to-face
+SDSU,Fall 2023,UGRD,7844,CON E,499,Special Study,1001,29421,3,,,,ARR,Zhao,D,1,0,Face-to-face
+SDSU,Fall 2023,UGRD,7847,CON E,499,Special Study,3001,29421,3,,,,ARR,Alves,T,5,1,Face-to-face
+SDSU,Fall 2023,UGRD,7848,CON E,499,Special Study,3002,29421,3,,,,ARR,Mitropoulos,P,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7849,CON E,499,Special Study,3003,29421,3,,,,ARR,Akhavian,R,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,9859,CON E,400,Preconstruction Mgt,1001,37981,3,HH146,4:00 PM,6:40 PM,W,Shirkey,D,25,17,Face-to-face
+SDSU,Fall 2023,UGRD,6414,M E,190,Computer-Aided Design,2001,37991,1,E221,8:00 AM,8:50 AM,W,Saghafi,C,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,8322,M E,499,Special Study,3020,2314,3,,,,ARR,Xu,W,10,5,Face-to-face
+SDSU,Fall 2023,UGRD,8325,M E,499,Special Study,3021,2314,3,,,,ARR,Park,S,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,8327,M E,499,Special Study,3022,2314,3,,,,ARR,Kang,S,10,0,Face-to-face
+SDSU,Fall 2023,GRAD,8330,M E, 799A,Thesis or Project,1001,2346,3,,,,ARR,Grad,O,1,0,Face-to-face
+SDSU,Fall 2023,GRAD,11672,M E,797,Research,1001,2344,3,,,,ARR,Abraham,J,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,6837,M E,580,Biomechanics,1001,38023,3,HH221,5:30 PM,6:45 PM,TR,May-Newman,K,80,38,Face-to-face
+SDSU,Fall 2023,GRAD,6839,M E,645,Mech Behavior of Eng Matl,1001,18204,3,LSN134,5:30 PM,6:45 PM,TR,Youssef,G,42,12,Face-to-face
+SDSU,Fall 2023,GRAD,6840,M E,657,Convection Heat Transfer,1001,27081,3,LSS244,7:00 PM,8:15 PM,MW,Miller,F,45,10,Face-to-face
+SDSU,Fall 2023,GRAD,6842,M E,696,Comp Transprt Phenomena,1001,37675,3,LL406,5:00 PM,6:15 PM,MW,Bhalla,A,40,6,Face-to-face
+SDSU,Fall 2023,GRAD,6843,M E,683,Design Medical Devices,1001,29828,3,LL406,8:00 AM,10:40 AM,M,Uskokovic,V,40,13,Face-to-face
+SDSU,Fall 2023,GRAD,6848,M E,688,Tissue Engineering,1001,39328,3,E427,5:30 PM,6:45 PM,TR,Katira,P,40,7,Face-to-face
+SDSU,Fall 2023,UGRD,5832,A E,331,Feedback Flight Control,1001,38492,3,OP201,11:00 AM,11:50 AM,MWF,Bani Younes,A,100,31,Face-to-face
+SDSU,Fall 2023,UGRD,2569,E E, 458L,Communication & Dsp Lab,1001,34034,1,E101F,4:00 PM,6:40 PM,R,Baskar,H,12,10,Face-to-face
+SDSU,Fall 2023,UGRD,2570,E E, 458L,Communication & Dsp Lab,2001,34034,1,E101F,9:30 AM,12:10 PM,T,Pantskalashvili,L,12,12,Face-to-face
+SDSU,Fall 2023,GRAD,2574,E E,795,Internship / Practicum,1001,27159,1,,,,ARR,Nagaraj,S,60,2,Face-to-face
+SDSU,Fall 2023,UGRD,2673,COMPE,160,Intro to Computer Prog,1002,38495,1,PS231,2:00 PM,3:20 PM,MW,,,25,14,Face-to-face
+SDSU,Fall 2023,UGRD,2675,COMPE,160,Intro to Computer Prog,1004,38495,1,PS231,2:00 PM,4:40 PM,F,Narasimhiah Ramesh,S,25,19,Face-to-face
+SDSU,Fall 2023,UGRD,2676,COMPE,160,Intro to Computer Prog,1005,38495,1,LL406,2:00 PM,3:20 PM,MW,Narasimhiah Ramesh,S,25,24,Face-to-face
+SDSU,Fall 2023,UGRD,2677,COMPE,160,Intro to Computer Prog,2002,38495,1,E207,3:30 PM,4:50 PM,TR,Tian,J,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,6260,M E,190,Computer-Aided Design,1001,37991,1,E221,8:00 AM,8:50 AM,M,Saghafi,C,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,6262,M E,190,Computer-Aided Design,1002,37991,1,E221,9:00 AM,11:40 AM,M,Saghafi,C,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,2218,COMPE,260,Data Structures OOP C++,1001,38496,3,E423B,7:00 PM,8:15 PM,MW,Tutberidze,M,32,27,Face-to-face
+SDSU,Fall 2023,UGRD,2219,COMPE,270,Digital Systems,1001,38497,3,GMCS301,2:00 PM,3:15 PM,TR,Huang,K,110,89,Face-to-face
+SDSU,Fall 2023,UGRD,2220,COMPE,271,Computer Organization,1001,34669,3,AH2108,5:00 PM,6:15 PM,MW,Arnold,K,125,61,Face-to-face
+SDSU,Fall 2023,UGRD,2221,COMPE,361,Advanced Programming,1001,34670,3,GMCS301,7:00 PM,8:15 PM,TR,Tutberidze,M,90,40,Face-to-face
+SDSU,Fall 2023,UGRD,2222,COMPE,375,Embedded Syst Programming,1002,34671,1,E207,8:00 AM,10:40 AM,F,Kocal,C,30,7,Face-to-face
+SDSU,Fall 2023,GRAD,2746,E E,798,Special Study,3010,1141,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,2377,E E,503,Biomedical Instrumentatn,1001,39179,3,P149,2:00 PM,3:15 PM,MW,Toreyin,H,42,42,Face-to-face
+SDSU,Fall 2023,UGRD,2378,E E,540,Microwave Devices & Syst,1001,33640,3,E423B,5:30 PM,6:45 PM,MW,Ahmed,A,49,21,Face-to-face
+SDSU,Fall 2023,UGRD,2379,E E,584,Power Electronics,1001,35892,3,PSFA310,9:00 AM,9:50 AM,MWF,Sabzehgar,R,40,8,Face-to-face
+SDSU,Fall 2023,GRAD,2381,E E,601,Linear Sys Theory & Desgn,1001,30645,3,E201,5:30 PM,6:45 PM,TR,Seshagiri,S,40,11,Face-to-face
+SDSU,Fall 2023,GRAD,2383,E E,602,Stochastic Signals & Sys,1001,30646,3,E423B,7:00 PM,8:15 PM,TR,Ashrafi,A,44,23,Face-to-face
+SDSU,Fall 2023,UGRD,2560,E E, 330L,Engr Electronics Lab,1001,36135,1,E202F,9:30 AM,12:10 PM,T,Tandel,D,22,16,Face-to-face
+SDSU,Fall 2023,UGRD,2241,E E,310,Circuit Analysis II,1001,39336,3,HH214,11:00 AM,12:15 PM,TR,Huang,T,100,58,Face-to-face
+SDSU,Fall 2023,UGRD,2242,E E,330,Fund of Engr Electronics,1001,1081,3,SH101,9:30 AM,10:45 AM,TR,Teh,Y,65,49,Face-to-face
+SDSU,Fall 2023,UGRD,2243,E E,330,Fund of Engr Electronics,2001,1081,3,PSFA308,5:30 PM,6:45 PM,TR,Yamada,H,49,28,Face-to-face
+SDSU,Fall 2023,UGRD,2244,E E,340,Electric & Magnetic Field,1001,39337,3,P144,12:00 PM,12:50 PM,MWF,Yamada,H,72,24,Face-to-face
+SDSU,Fall 2023,UGRD,2245,E E,380,Electrical Energy Conver,1001,1085,3,PSFA310,10:00 AM,10:50 AM,MWF,Sabzehgar,R,50,39,Face-to-face
+SDSU,Fall 2023,UGRD,2401,E E,296,Electric Circuit Lab,2001,38588,1,E202F,4:00 PM,6:40 PM,T,,,22,0,Face-to-face
+SDSU,Fall 2023,UGRD,2085,COMPE,160,Intro to Computer Prog,1001,38495,2,NE060,9:00 AM,9:50 AM,MW,Paolini,C,85,77,Face-to-face
+SDSU,Fall 2023,GRAD,2738,E E,797,Research,3015,29826,3,,,,ARR,Ahmed,A,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,2739,E E,797,Research,3016,29826,3,,,,ARR,Seshagiri,S,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,2740,E E,797,Research,3017,29826,3,,,,ARR,Teh,Y,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,2741,E E,798,Special Study,1001,1141,1,,,,ARR,Sharma,S,0,0,Face-to-face
+SDSU,Fall 2023,GRAD,2742,E E,798,Special Study,3006,1141,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,GRAD,2743,E E,798,Special Study,3007,1141,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,GRAD,2744,E E,798,Special Study,3008,1141,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,GRAD,2745,E E,798,Special Study,3009,1141,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,2561,E E, 330L,Engr Electronics Lab,2001,36135,1,E202F,9:00 AM,11:40 AM,W,Tandel,D,22,22,Face-to-face
+SDSU,Fall 2023,UGRD,2562,E E, 330L,Engr Electronics Lab,3001,36135,1,E202F,1:00 PM,3:40 PM,T,Abulashvili,B,22,22,Face-to-face
+SDSU,Fall 2023,UGRD,2563,E E, 330L,Engr Electronics Lab,4001,36135,1,E202F,1:00 PM,3:40 PM,W,Abulashvili,B,22,22,Face-to-face
+SDSU,Fall 2023,UGRD,2564,E E, 380L,Elec Energy Convers Lab,3001,36136,1,E101H,5:00 PM,7:40 PM,M,Betancourt,R,16,9,Face-to-face
+SDSU,Fall 2023,UGRD,2565,E E, 380L,Elec Energy Convers Lab,2001,36136,1,E101H,2:00 PM,4:40 PM,M,Betancourt,R,16,15,Face-to-face
+SDSU,Fall 2023,UGRD,2566,E E, 420L,Control Systems Lab,1001,37569,1,E101G,10:00 AM,12:40 PM,M,Seshagiri,S,16,4,Face-to-face
+SDSU,Fall 2023,UGRD,2567,E E, 430L,Electronic Circuits Lab,1001,37837,1,E202F,3:00 PM,5:40 PM,F,Phillips,D,22,20,Face-to-face
+SDSU,Fall 2023,UGRD,2568,E E, 430L,Electronic Circuits Lab,2001,37837,1,E202F,10:00 AM,12:40 PM,M,,,22,19,Face-to-face
+SDSU,Fall 2023,UGRD,2236,E E,200,Analytical Methds for E E,1001,38498,3,OP220,2:00 PM,3:15 PM,MW,Nguyen,H,120,111,Face-to-face
+SDSU,Fall 2023,UGRD,2238,E E,204,Princ Electrical Engr,2001,14641,3,GMCS313,5:30 PM,6:45 PM,TR,Phillips,D,60,51,Face-to-face
+SDSU,Fall 2023,UGRD,2239,E E,210,Circuit Analysis I,1001,30523,3,E328,9:30 AM,10:45 AM,TR,Kaveh,P,49,47,Face-to-face
+SDSU,Fall 2023,UGRD,2240,E E,300,Comp & Stat Meth for E E,1001,36966,3,COM207,5:00 PM,6:15 PM,MW,Chung,S,70,62,Face-to-face
+SDSU,Fall 2023,UGRD,2213,COMPE,160,Intro to Computer Prog,1003,38495,1,LL406,3:30 PM,4:50 PM,TR,Narasimhiah Ramesh,S,25,20,Face-to-face
+SDSU,Fall 2023,UGRD,2369,E E,410,Signals and Systems,1001,36137,3,HH214,8:00 AM,9:15 AM,TR,Ashrafi,A,85,45,Face-to-face
+SDSU,Fall 2023,UGRD,2370,E E,420,Feedback Control Systems,1001,27631,3,SSW1500,3:30 PM,4:45 PM,TR,Kaveh,P,54,49,Face-to-face
+SDSU,Fall 2023,UGRD,2371,E E,430,Analysis&Des of Elec Circ,1001,39338,3,HT183,9:00 AM,9:50 AM,MWF,Toreyin,H,90,33,Face-to-face
+SDSU,Fall 2023,UGRD,2372,E E,440,Electromagnetic Waves,1001,36141,3,OP201,5:30 PM,6:45 PM,TR,Engin,A,75,53,Face-to-face
+SDSU,Fall 2023,UGRD,2373,E E,450,Digital Signal Processing,1001,36812,3,SSE1401,2:00 PM,3:15 PM,TR,Kumar,S,70,50,Face-to-face
+SDSU,Fall 2023,UGRD,2374,E E,458,Analog & Pulse Comm Syst,1001,26875,3,P149,12:30 PM,1:45 PM,TR,Nagaraj,S,42,41,Face-to-face
+SDSU,Fall 2023,UGRD,2375,E E,480,Power System Analysis,1001,39339,3,E201,12:30 PM,1:45 PM,TR,Manshadi,S,40,34,Face-to-face
+SDSU,Fall 2023,GRAD,4478,E E,797,Research,3018,29826,3,,,,ARR,Toreyin,H,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,4479,E E,797,Research,3019,29826,3,,,,ARR,Xie,J,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,4480,E E,797,Research,3020,29826,3,,,,ARR,Sarkar,M,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,4263,E E,797,Research,3001,29826,3,,,,ARR,Aksanli,B,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,4264,E E,797,Research,3002,29826,3,,,,ARR,Alimohammad,A,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,4279,E E,798,Special Study,3005,1141,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,GRAD,4265,E E,797,Research,3003,29826,3,,,,ARR,Ashrafi,A,5,2,Face-to-face
+SDSU,Fall 2023,GRAD,4266,E E,797,Research,3004,29826,3,,,,ARR,Engin,A,5,1,Face-to-face
+SDSU,Fall 2023,GRAD,4267,E E,797,Research,3005,29826,3,,,,ARR,Huang,K,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,4268,E E,797,Research,3006,29826,3,,,,ARR,Huang,T,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,4269,E E,797,Research,3007,29826,3,,,,ARR,Kumar,S,5,1,Face-to-face
+SDSU,Fall 2023,GRAD,4270,E E,797,Research,3008,29826,3,,,,ARR,Manshadi,S,5,1,Face-to-face
+SDSU,Fall 2023,GRAD,4271,E E,797,Research,3009,29826,3,,,,ARR,Mi,C,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,4275,E E,798,Special Study,3001,1141,3,,,,ARR,Aksanli,B,10,2,Face-to-face
+SDSU,Fall 2023,GRAD,4276,E E,798,Special Study,3002,1141,3,,,,ARR,Sarkar,M,10,2,Face-to-face
+SDSU,Fall 2023,GRAD,4277,E E,798,Special Study,3003,1141,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,GRAD,4278,E E,798,Special Study,3004,1141,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,5693,A E,220,Dynamics,1001,36645,3,M120,9:30 AM,10:45 AM,TR,Capriotti,M,52,19,Face-to-face
+SDSU,Fall 2023,UGRD,5805,A E,260,Progrmg & Numrical Mthds,1001,38488,3,PSFA310,7:00 PM,8:15 PM,TR,Amini,B,50,50,Face-to-face
+SDSU,Fall 2023,UGRD,5806,A E,280,Methods of Analysis,1001,33457,3,OP220,12:30 PM,1:45 PM,TR,Chilukuri,R,125,108,Face-to-face
+SDSU,Fall 2023,UGRD,5807,A E,280,Methods of Analysis,1002,33457,3,HT183,2:00 PM,3:15 PM,MW,Chen,J,80,80,Face-to-face
+SDSU,Fall 2023,UGRD,5808,A E,301,Low Speed Aerodynamics,1001,38489,3,GMCS306,2:00 PM,3:15 PM,TR,Liu,X,40,39,Face-to-face
+SDSU,Fall 2023,UGRD,2575,E E,495,Internship,1001,37814,1,,,,ARR,Sharma,S,25,0,Face-to-face
+SDSU,Fall 2023,GRAD,2576,E E, 799A,Thesis or Project,1,1142,3,,,,ARR,Grad,O,1,0,Face-to-face
+SDSU,Fall 2023,GRAD,2577,E E, 799B,Thesis or Project Exten,1,1143,0,,,,ARR,Grad,O,1,0,Face-to-face
+SDSU,Fall 2023,UGRD,4412,COMPE,499,Special Study,1001,19841,3,,,,ARR,Sharma,S,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,2670,COMPE,375,Embedded Syst Programming,1001,34671,2,COM207,12:30 PM,1:20 PM,TR,Aksanli,B,120,74,Face-to-face
+SDSU,Fall 2023,UGRD,6808,M E,491,Senior Projects II,1002,38157,2,EIS106,1:00 PM,3:40 PM,T,Lehman,A,60,38,Face-to-face
+SDSU,Fall 2023,UGRD,6809,M E,491,Senior Projects II,2001,38157,1,EIS106,12:00 PM,12:50 PM,R,Lehman,A,60,10,Face-to-face
+SDSU,Fall 2023,UGRD,6810,M E,491,Senior Projects II,2002,38157,2,EIS106,1:00 PM,3:40 PM,R,Lehman,A,60,10,Face-to-face
+SDSU,Fall 2023,UGRD,6811,M E,495,Mech & Thermal Sys Lab,1001,38502,1,EIS012,10:00 AM,10:50 AM,M,Nourollahi,H,31,29,Face-to-face
+SDSU,Fall 2023,UGRD,6812,M E,495,Mech & Thermal Sys Lab,1002,38502,1,EIS012,11:00 AM,1:40 PM,M,Nourollahi,H,31,29,Face-to-face
+SDSU,Fall 2023,UGRD,6813,M E,495,Mech & Thermal Sys Lab,2001,38502,1,EIS012,10:00 AM,10:50 AM,W,Nourollahi,H,31,26,Face-to-face
+SDSU,Fall 2023,UGRD,6814,M E,495,Mech & Thermal Sys Lab,2002,38502,1,EIS012,11:00 AM,1:40 PM,W,Nourollahi,H,31,26,Face-to-face
+SDSU,Fall 2023,UGRD,6815,M E,495,Mech & Thermal Sys Lab,3001,38502,1,EIS012,2:00 PM,2:50 PM,R,Nourollahi,H,31,9,Face-to-face
+SDSU,Fall 2023,UGRD,6816,M E,495,Mech & Thermal Sys Lab,3002,38502,1,EIS012,3:00 PM,5:40 PM,R,Nourollahi,H,31,9,Face-to-face
+SDSU,Fall 2023,UGRD,6817,M E,495,Mech & Thermal Sys Lab,4001,38502,1,EIS012,10:00 AM,10:50 AM,T,Nourollahi,H,31,31,Face-to-face
+SDSU,Fall 2023,UGRD,6818,M E,495,Mech & Thermal Sys Lab,4002,38502,1,EIS012,11:00 AM,1:40 PM,T,Nourollahi,H,31,31,Face-to-face
+SDSU,Fall 2023,UGRD,6819,M E,495,Mech & Thermal Sys Lab,5001,38502,1,EIS012,10:00 AM,10:50 AM,R,Nourollahi,H,31,25,Face-to-face
+SDSU,Fall 2023,UGRD,6821,M E,495,Mech & Thermal Sys Lab,5002,38502,1,EIS012,11:00 AM,1:40 PM,R,Nourollahi,H,31,25,Face-to-face
+SDSU,Fall 2023,GRAD,6870,M E,696,Smart Manufacturing,1001,41007,3,GMCS307,10:00 AM,12:40 PM,F,Kang,S,40,17,Face-to-face
+SDSU,Fall 2023,UGRD,7245,CON E,320,Construction Estimating,1002,37978,1,PS231,2:00 PM,3:45 PM,T,Luckhardt,D,49,42,Face-to-face
+SDSU,Fall 2023,UGRD,7246,CON E,330,Princ of Engin Economy,1001,37979,3,AL204,10:00 AM,10:50 AM,MWF,Supernak,J,60,55,Face-to-face
+SDSU,Fall 2023,UGRD,7247,CON E,330,Princ of Engin Economy,1002,37979,3,AL204,8:00 AM,8:50 AM,MWF,Supernak,J,60,16,Face-to-face
+SDSU,Fall 2023,UGRD,7248,CON E,330,Princ of Engin Economy,1003,37979,3,P146,8:00 AM,9:15 AM,TR,Hemati,H,60,60,Face-to-face
+SDSU,Fall 2023,UGRD,7251,CON E,401,Constr Planning & Sched,1001,37982,2,GMCS314,10:00 AM,10:50 AM,MW,Lakrori,N,50,58,Face-to-face
+SDSU,Fall 2023,UGRD,6765,M E,304,Mechanics of Materials,1001,37992,3,OP230,11:00 AM,11:50 AM,MWF,Nacy,S,80,33,Face-to-face
+SDSU,Fall 2023,UGRD,6766,M E,304,Mechanics of Materials,2001,37992,3,LH437,12:30 PM,1:45 PM,MW,Torresani,E,70,68,Face-to-face
+SDSU,Fall 2023,UGRD,6769,M E,304,Mechanics of Materials,3001,37992,3,HH214,5:30 PM,6:45 PM,MW,Nacy,S,80,69,Face-to-face
+SDSU,Fall 2023,UGRD,6795,M E,450,Applicatns Thermodynamics,1001,38500,3,E328,8:00 AM,9:15 AM,TR,Abraham,J,49,14,Face-to-face
+SDSU,Fall 2023,UGRD,6797,M E,452,Princ of Heat Transfer,2001,38000,3,PSFA350,2:00 PM,3:15 PM,MW,Bhalla,A,70,66,Face-to-face
+SDSU,Fall 2023,UGRD,6807,M E,491,Senior Projects II,1001,38157,1,EIS106,12:00 PM,12:50 PM,T,Lehman,A,60,38,Face-to-face
+SDSU,Fall 2023,UGRD,6738,M E,230,Basics of Mechatronics,1001,39305,2,E221,8:00 AM,9:50 AM,T,Murthy,V,40,15,Face-to-face
+SDSU,Fall 2023,UGRD,6739,M E,230,Basics of Mechatronics,2001,39305,2,E221,9:30 AM,11:20 AM,R,Moon,K,40,29,Face-to-face
+SDSU,Fall 2023,UGRD,6740,M E,230,Basics of Mechatronics,2002,39305,1,E221,11:30 AM,2:10 PM,R,Wield,P,40,29,Face-to-face
+SDSU,Fall 2023,UGRD,6741,M E,230,Basics of Mechatronics,3001,39305,2,E221,4:00 PM,5:50 PM,W,Lee,A,40,12,Face-to-face
+SDSU,Fall 2023,UGRD,6742,M E,230,Basics of Mechatronics,1002,39305,1,E221,10:00 AM,12:40 PM,T,Wield,P,40,15,Face-to-face
+SDSU,Fall 2023,UGRD,6743,M E,230,Basics of Mechatronics,3002,39305,1,E221,6:00 PM,8:40 PM,W,Lee,A,40,12,Face-to-face
+SDSU,Fall 2023,UGRD,6744,M E,230,Basics of Mechatronics,4001,39305,2,E221,4:00 PM,5:50 PM,M,Lee,A,26,26,Face-to-face
+SDSU,Fall 2023,UGRD,6746,M E,230,Basics of Mechatronics,4002,39305,1,E221,6:00 PM,8:40 PM,M,Lee,A,26,26,Face-to-face
+SDSU,Fall 2023,UGRD,6748,COMPE,160,Intro to Computer Prog,2001,38495,2,PG242,12:00 PM,12:50 PM,MW,Paolini,C,85,75,Face-to-face
+SDSU,Fall 2023,UGRD,6823,M E,520,Intro to Mechanical Vibra,1001,2319,3,PG153,2:00 PM,3:15 PM,MW,Naseradinmousavi,P,80,79,Face-to-face
+SDSU,Fall 2023,UGRD,6824,M E,532,Robot Modeling & Control,1001,37832,3,GMCS301,8:00 AM,9:15 AM,TR,Nili Ahmadabadi,Z,80,53,Face-to-face
+SDSU,Fall 2023,UGRD,6826,M E,535,Mech of Composites Struct,1001,38020,3,LL406,5:00 PM,6:15 PM,TR,Nacy,S,50,21,Face-to-face
+SDSU,Fall 2023,UGRD,6828,M E,543,Powder-Based Manufact,1001,39492,3,E201,8:00 AM,9:15 AM,TR,Morsi,K,49,44,Face-to-face
+SDSU,Fall 2023,UGRD,6829,M E,552,"Heat, Vent, & A/C",1001,38713,3,HH214,7:00 PM,8:15 PM,TR,Veca,G,70,41,Face-to-face
+SDSU,Fall 2023,UGRD,6834,M E,555,Enrgy& Thrm Sys Anal/Dsgn,1001,38715,3,HT183,5:30 PM,6:45 PM,MW,Beyene,A,52,20,Face-to-face
+SDSU,Fall 2023,UGRD,7665,A E,341,Fluid Mechanics Lab,1002,37953,1,EIS010,2:00 PM,3:40 PM,T,,,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7665,A E,341,Fluid Mechanics Lab,1002,37953,1,E427,1:00 PM,1:50 PM,T,Kharraz,A,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7666,A E,341,Fluid Mechanics Lab,1003,37953,1,EIS010,2:00 PM,3:40 PM,W,,,25,15,Face-to-face
+SDSU,Fall 2023,UGRD,7666,A E,341,Fluid Mechanics Lab,1003,37953,1,E328,1:00 PM,1:50 PM,W,Kharraz,A,25,15,Face-to-face
+SDSU,Fall 2023,UGRD,7667,A E,341,Fluid Mechanics Lab,1004,37953,1,NE175,9:00 AM,9:50 AM,T,Chilukuri,R,25,18,Face-to-face
+SDSU,Fall 2023,UGRD,7667,A E,341,Fluid Mechanics Lab,1004,37953,1,EIS010,10:00 AM,11:40 AM,T,,,25,18,Face-to-face
+SDSU,Fall 2023,UGRD,7668,A E,341,Fluid Mechanics Lab,1005,37953,1,EIS010,10:00 AM,11:40 AM,W,,,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7668,A E,341,Fluid Mechanics Lab,1005,37953,1,LSN134,9:00 AM,9:50 AM,W,Kharraz,A,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7669,A E,341,Fluid Mechanics Lab,1006,37953,1,EIS010,2:00 PM,3:40 PM,R,,,25,24,Face-to-face
+SDSU,Fall 2023,UGRD,7669,A E,341,Fluid Mechanics Lab,1006,37953,1,E427,1:00 PM,1:50 PM,R,Abassi,M,25,24,Face-to-face
+SDSU,Fall 2023,UGRD,7670,A E,341,Fluid Mechanics Lab,1007,37953,1,SLHS247,4:00 PM,4:50 PM,W,Chilukuri,R,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7670,A E,341,Fluid Mechanics Lab,1007,37953,1,EIS010,5:00 PM,6:40 PM,W,,,25,25,Face-to-face
+SDSU,Fall 2023,GRAD,8358,A E,797,Research,3001,20,3,,,,ARR,Liu,X,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7033,CIV E,301,Intro to Solid Mechanics,1001,37901,3,GMCS324,9:00 AM,9:50 AM,MWF,Lakrori,N,60,60,Face-to-face
+SDSU,Fall 2023,UGRD,7034,CIV E,301,Intro to Solid Mechanics,1002,37901,3,E201,9:30 AM,10:45 AM,TR,Lakrori,N,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,7038,CIV E,302,Solid Mechanics Lab,1001,23414,1,E103,2:00 PM,3:40 PM,R,Schraff,A,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7038,CIV E,302,Solid Mechanics Lab,1001,23414,1,P145,1:00 PM,1:50 PM,R,,,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7039,CIV E,302,Solid Mechanics Lab,1002,23414,1,E103,2:00 PM,3:40 PM,T,Schraff,A,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7039,CIV E,302,Solid Mechanics Lab,1002,23414,1,PS231,1:00 PM,1:50 PM,T,,,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7040,CIV E,302,Solid Mechanics Lab,1003,23414,1,E103,2:00 PM,3:40 PM,W,Patel,A,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7040,CIV E,302,Solid Mechanics Lab,1003,23414,1,E201,1:00 PM,1:50 PM,W,,,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7042,CIV E,302,Solid Mechanics Lab,1004,23414,1,E103,12:00 PM,1:40 PM,T,Patel,A,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7042,CIV E,302,Solid Mechanics Lab,1004,23414,1,SSW3630,11:00 AM,11:50 AM,T,,,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7043,CIV E,302,Solid Mechanics Lab,1005,23414,1,E103,12:00 PM,1:40 PM,R,Patel,A,25,24,Face-to-face
+SDSU,Fall 2023,UGRD,7043,CIV E,302,Solid Mechanics Lab,1005,23414,1,SSW3630,11:00 AM,11:50 AM,R,,,25,24,Face-to-face
+SDSU,Fall 2023,UGRD,7044,CIV E,302,Solid Mechanics Lab,1006,23414,1,E103,11:00 AM,12:40 PM,F,Patel,A,25,17,Face-to-face
+SDSU,Fall 2023,UGRD,7044,CIV E,302,Solid Mechanics Lab,1006,23414,1,LH251,10:00 AM,10:50 AM,F,,,25,17,Face-to-face
+SDSU,Fall 2023,UGRD,7045,CIV E,321,Structural Analysis I,1001,34027,3,BT161,4:00 PM,5:15 PM,MW,Dowell,R,100,53,Face-to-face
+SDSU,Fall 2023,UGRD,7047,CIV E,401,Civil Engin and Society,1001,25098,1,SH105,12:00 PM,12:50 PM,W,Faraone,G,50,48,Face-to-face
+SDSU,Fall 2023,GRAD,7816,CIV E,798,Special Study,1001,23595,3,,,,ARR,Zhao,D,1,0,Face-to-face
+SDSU,Fall 2023,GRAD,7820,CIV E,798,Special Study,3001,23595,3,,,,ARR,Zhao,D,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7822,CIV E,798,Special Study,3002,23595,3,,,,ARR,Alves,T,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7825,CIV E,798,Special Study,3003,23595,3,,,,ARR,Faraone,G,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7826,CIV E,798,Special Study,3004,23595,3,,,,ARR,Bayasi,M,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7828,CIV E,798,Special Study,3005,23595,3,,,,ARR,Ghanipoor Machiani,S,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,5818,A E,320,Astrodynamics,1001,36646,3,SSE1401,7:00 PM,8:15 PM,TR,Butler,G,120,87,Face-to-face
+SDSU,Fall 2023,UGRD,6528,M E,200,Statics,3001,36647,3,SSW1500,5:30 PM,6:45 PM,TR,Ayala,R,90,80,Face-to-face
+SDSU,Fall 2023,UGRD,6530,M E,202,Computer Prog Application,1001,36744,2,SHW012,5:30 PM,6:15 PM,MW,Pakravan,A,80,80,Face-to-face
+SDSU,Fall 2023,UGRD,6536,M E,202,Computer Prog Application,1002,36744,1,SHW012,6:20 PM,6:45 PM,MW,Pakravan,A,80,80,Face-to-face
+SDSU,Fall 2023,UGRD,6537,M E,202,Computer Prog Application,2001,36744,2,LH347,8:00 AM,8:50 AM,MW,Al Roomi,L,80,51,Face-to-face
+SDSU,Fall 2023,UGRD,6538,M E,202,Computer Prog Application,2002,36744,1,LH347,8:50 AM,9:15 AM,MW,Al Roomi,L,80,51,Face-to-face
+SDSU,Fall 2023,UGRD,6539,M E,202,Computer Prog Application,3001,36744,2,PSFA350,9:00 AM,9:50 AM,MW,,,50,0,Face-to-face
+SDSU,Fall 2023,UGRD,6552,M E,202,Computer Prog Application,3002,36744,2,PSFA350,9:50 AM,10:15 AM,MW,,,50,0,Face-to-face
+SDSU,Fall 2023,UGRD,8296,M E,499,Special Study,3007,2314,3,,,,ARR,Nili Ahmadabadi,Z,10,1,Face-to-face
+SDSU,Fall 2023,UGRD,8297,M E,499,Special Study,3008,2314,3,,,,ARR,Moon,K,10,1,Face-to-face
+SDSU,Fall 2023,UGRD,8298,M E,499,Special Study,3009,2314,3,,,,ARR,Torresani,E,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,8301,M E,499,Special Study,3010,2314,3,,,,ARR,Yang,Y,10,2,Face-to-face
+SDSU,Fall 2023,UGRD,8305,M E,499,Special Study,3011,2314,3,,,,ARR,Kassegne,S,10,2,Face-to-face
+SDSU,Fall 2023,UGRD,8306,M E,499,Special Study,3012,2314,3,,,,ARR,May-Newman,K,10,1,Face-to-face
+SDSU,Fall 2023,UGRD,7236,CON E,101,Construction & Culture,1001,37470,3,OP220,9:00 AM,9:50 AM,MWF,Alves,T,159,120,Face-to-face
+SDSU,Fall 2023,UGRD,7237,CON E,102,Fundamentals Constrct Mgt,1001,37973,1,GMCS313,11:00 AM,11:50 AM,F,Alves,T,51,50,Face-to-face
+SDSU,Fall 2023,UGRD,7238,CON E,215,Virtual Design & Constr,1001,37974,2,PS231,5:30 PM,6:45 PM,TR,Mao,Z,41,40,Face-to-face
+SDSU,Fall 2023,UGRD,7239,CON E,215,Virtual Design & Constr,1002,37974,1,,,,ARR,Mao,Z,41,40,Face-to-face
+SDSU,Fall 2023,UGRD,7241,CON E,301,Constr Ethics Law & Contr,1001,28390,3,E423B,9:30 AM,10:45 AM,TR,Alves,T,47,47,Face-to-face
+SDSU,Fall 2023,UGRD,7242,CON E,312,Mech/Elec Prin for Constr,1001,37977,2,E300,5:30 PM,6:45 PM,TR,Beheshti,M,41,41,Face-to-face
+SDSU,Fall 2023,UGRD,7243,CON E,312,Mech/Elec Prin for Constr,1002,37977,1,E300,7:00 PM,8:40 PM,R,Beheshti,M,41,41,Face-to-face
+SDSU,Fall 2023,UGRD,7244,CON E,320,Construction Estimating,1001,37978,2,P144,4:00 PM,5:15 PM,TR,Luckhardt,D,49,42,Face-to-face
+SDSU,Fall 2023,UGRD,6503,M E,190,Computer-Aided Design,3002,37991,1,E221,9:00 AM,11:40 AM,F,Saghafi,C,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,6506,M E,190,Computer-Aided Design,4001,37991,1,E221,12:00 PM,12:50 PM,M,Saghafi,C,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,6508,M E,190,Computer-Aided Design,4002,37991,1,E221,1:00 PM,3:40 PM,M,Saghafi,C,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,6509,M E,190,Computer-Aided Design,5001,37991,1,E221,12:00 PM,12:50 PM,F,Saghafi,C,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,6511,M E,190,Computer-Aided Design,5002,37991,1,E221,1:00 PM,3:40 PM,F,Saghafi,C,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,6513,M E,190,Computer-Aided Design,6001,37991,1,E221,5:00 PM,5:50 PM,F,Lee,A,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,7711,CIV E,499,Special Study,3011,23434,3,,,,ARR,Jahangiri,A,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7712,A E,499,Special Study,3005,33692,3,,,,ARR,Liu,X,5,2,Face-to-face
+SDSU,Fall 2023,UGRD,7714,CIV E,499,Special Study,3012,23434,3,,,,ARR,Miletic,M,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7715,A E,499,Special Study,3006,33692,3,,,,ARR,Bani Younes,A,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7716,CIV E,499,Special Study,3013,23434,3,,,,ARR,Akhavian,R,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7717,CIV E,499,Special Study,3014,23434,3,,,,ARR,Sepulveda Oyarzun,I,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7718,A E,499,Special Study,3007,33692,3,,,,ARR,Chen,J,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7719,A E,499,Special Study,3008,33692,3,,,,ARR,Popov,P,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7720,A E,499,Special Study,3009,33692,3,,,,ARR,Capriotti,M,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7721,A E,499,Special Study,3010,33692,3,,,,ARR,Lu,P,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,5855,A E,410,Aeros Structural Dynamics,1001,39284,3,SSE1401,8:00 AM,9:15 AM,TR,Demasi,L,120,115,Face-to-face
+SDSU,Fall 2023,GRAD,8372,A E,797,Research,3005,20,3,,,,ARR,Venkataraman,S,5,2,Face-to-face
+SDSU,Fall 2023,GRAD,8374,A E,797,Research,3006,20,3,,,,ARR,Lu,P,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,8375,A E,797,Research,3007,20,3,,,,ARR,Bani Younes,A,5,2,Face-to-face
+SDSU,Fall 2023,GRAD,8377,A E,797,Research,3008,20,3,,,,ARR,Chen,J,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,8379,A E,797,Research,3009,20,3,,,,ARR,Popov,P,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,8380,A E,797,Research,3010,20,3,,,,ARR,Capriotti,M,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,5959,A E, 799B,Thesis Extension,1001,23,0,,,,ARR,Grad,O,1,0,Face-to-face
+SDSU,Fall 2023,UGRD,6750,M E,240,Intro to Eng Materials,1001,36649,3,PS130,7:00 PM,8:15 PM,MW,Yang,Y,70,70,Face-to-face
+SDSU,Fall 2023,UGRD,6751,M E,240,Intro to Eng Materials,2001,36649,3,HH130,11:00 AM,12:15 PM,TR,Morsi,K,80,80,Face-to-face
+SDSU,Fall 2023,UGRD,6752,M E,240,Intro to Eng Materials,3001,36649,3,COM105,5:00 PM,6:15 PM,MW,Torresani,E,70,35,Face-to-face
+SDSU,Fall 2023,UGRD,6753,M E,241,Materials Laboratory,1002,36650,1,EIS012,2:00 PM,4:40 PM,M,Al Roomi,L,27,19,Face-to-face
+SDSU,Fall 2023,UGRD,6754,M E,241,Materials Laboratory,2002,36650,1,EIS012,2:00 PM,4:40 PM,W,Al Roomi,L,27,27,Face-to-face
+SDSU,Fall 2023,UGRD,6757,M E,241,Materials Laboratory,3002,36650,1,EIS012,2:00 PM,4:40 PM,F,Lehman,A,27,27,Face-to-face
+SDSU,Fall 2023,UGRD,6759,M E,241,Materials Laboratory,4002,36650,1,EIS012,2:00 PM,4:40 PM,T,Al Roomi,L,27,27,Face-to-face
+SDSU,Fall 2023,UGRD,6498,M E,190,Computer-Aided Design,2002,37991,1,E221,9:00 AM,11:40 AM,W,Saghafi,C,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,6500,M E,190,Computer-Aided Design,3001,37991,1,E221,8:00 AM,8:50 AM,F,Saghafi,C,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,7018,CIV E,220,CEE Computer App,1003,31785,2,E221,12:00 PM,1:40 PM,W,Parsons,T,47,47,Face-to-face
+SDSU,Fall 2023,UGRD,7019,CIV E,220,CEE Computer App,1004,31785,2,E221,2:00 PM,3:40 PM,W,Parsons,T,47,37,Face-to-face
+SDSU,Fall 2023,UGRD,7020,CIV E,220,CEE Computer App,1005,31785,2,PS231,9:00 AM,10:40 AM,R,Parsons,T,47,32,Face-to-face
+SDSU,Fall 2023,UGRD,7023,CIV E,220,CEE Computer App,1006,31785,2,PS231,1:00 PM,2:40 PM,R,Parsons,T,47,35,Face-to-face
+SDSU,Fall 2023,UGRD,7029,CIV E,225,Mechanics for Civil Engin,1001,37971,3,GMCS305,8:00 AM,9:15 AM,TR,Schraff,A,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,7030,CIV E,225,Mechanics for Civil Engin,1002,37971,3,LSS365,2:00 PM,3:15 PM,MW,Schraff,A,60,60,Face-to-face
+SDSU,Fall 2023,UGRD,7031,CIV E,225,Mechanics for Civil Engin,1003,37971,3,GMCS325,5:30 PM,6:45 PM,TR,Schraff,A,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,5838,A E,340,Fluid Mechanics,1001,38493,3,NE060,4:00 PM,5:15 PM,TR,Wang,Q,150,132,Face-to-face
+SDSU,Fall 2023,UGRD,5839,A E,340,Fluid Mechanics,1002,38493,3,NE060,5:30 PM,6:45 PM,TR,Katz,J,60,60,Face-to-face
+SDSU,Fall 2023,UGRD,5840,A E,341,Fluid Mechanics Lab,1001,37953,1,EIS010,2:00 PM,3:40 PM,M,,,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,5840,A E,341,Fluid Mechanics Lab,1001,37953,1,E328,1:00 PM,1:50 PM,M,Abassi,M,25,25,Face-to-face
+SDSU,Fall 2023,GRAD,5948,A E,678,Flight Control,1001,39325,3,E427,5:30 PM,6:45 PM,MW,Chen,J,40,6,Face-to-face
+SDSU,Fall 2023,GRAD,5949,A E,600,Seminar,1001,33758,3,GMCS308,8:30 PM,9:45 PM,TR,Wang,Q,25,2,Face-to-face
+SDSU,Fall 2023,GRAD,5950,A E,797,Research,1001,20,3,,,,ARR,Liu,X,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,5955,A E,798,Special Study,1001,21,3,,,,ARR,Liu,X,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,5958,A E, 799A,Thesis,1,22,3,,,,ARR,Grad,O,1,0,Face-to-face
+SDSU,Fall 2023,UGRD,5691,A E,200,Statics,1001,36644,3,COM207,3:30 PM,4:45 PM,MW,Venkataraman,S,80,79,Face-to-face
+SDSU,Fall 2023,UGRD,8633,E E,420,Feedback Control Systems,2001,27631,3,E328,11:00 AM,12:15 PM,TR,Seshagiri,S,49,29,Face-to-face
+SDSU,Fall 2023,UGRD,8281,M E,499,Special Study,1001,2314,3,,,,ARR,Abraham,J,1,0,Face-to-face
+SDSU,Fall 2023,UGRD,8284,M E,499,Special Study,3001,2314,3,,,,ARR,Abraham,J,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,8285,M E,499,Special Study,3002,2314,3,,,,ARR,Beyene,A,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,8286,M E,499,Special Study,3003,2314,3,,,,ARR,Adibi Sedeh,S,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,8287,M E,499,Special Study,3004,2314,3,,,,ARR,Bhalla,A,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,8289,COMPE,375,Embedded Syst Programming,1005,34671,1,E207,9:00 AM,11:40 AM,M,,,30,28,Face-to-face
+SDSU,Fall 2023,UGRD,8290,M E,499,Special Study,3005,2314,3,,,,ARR,Bhattacharjee,S,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,8293,M E,499,Special Study,3006,2314,3,,,,ARR,Heydari Gharahcheshmeh,M,10,1,Face-to-face
+SDSU,Fall 2023,UGRD,8308,M E,499,Special Study,3013,2314,3,,,,ARR,Miller,F,10,1,Face-to-face
+SDSU,Fall 2023,UGRD,8309,M E,499,Special Study,3014,2314,3,,,,ARR,Morsi,K,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,8311,M E,499,Special Study,3015,2314,3,,,,ARR,Olevsky,E,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,8312,M E,499,Special Study,3016,2314,3,,,,ARR,Camacho,J,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,8315,M E,499,Special Study,3017,2314,3,,,,ARR,Katira,P,10,1,Face-to-face
+SDSU,Fall 2023,UGRD,8317,M E,499,Special Study,3018,2314,3,,,,ARR,Naseradinmousavi,P,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,8320,M E,499,Special Study,3019,2314,3,,,,ARR,Youssef,G,10,0,Face-to-face
+SDSU,Fall 2023,GRAD,8335,M E, 799B,Thesis or Project Exten,1001,2347,0,,,,ARR,Grad,O,1,0,Face-to-face
+SDSU,Fall 2023,GRAD,8337,M E, 799C,Comprehensive Exam,1001,26254,0,,,,ARR,Grad,O,0,0,Face-to-face
+SDSU,Fall 2023,GRAD,8504,A E,798,Special Study,3001,21,3,,,,ARR,Liu,X,5,1,Face-to-face
+SDSU,Fall 2023,GRAD,8507,A E,798,Special Study,3002,21,3,,,,ARR,Demasi,L,5,1,Face-to-face
+SDSU,Fall 2023,GRAD,8369,A E,797,Research,3002,20,3,,,,ARR,Demasi,L,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,8370,A E,797,Research,3003,20,3,,,,ARR,Jacobs,G,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,8371,A E,797,Research,3004,20,3,,,,ARR,Katz,J,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,8712,E E,210,Circuit Analysis I,2001,30523,3,PSFA308,4:00 PM,5:15 PM,TR,Teh,Y,49,19,Face-to-face
+SDSU,Fall 2023,UGRD,7671,A E,341,Fluid Mechanics Lab,1008,37953,1,EIS010,5:00 PM,6:40 PM,M,,,25,20,Face-to-face
+SDSU,Fall 2023,UGRD,7671,A E,341,Fluid Mechanics Lab,1008,37953,1,LH251,4:00 PM,4:50 PM,M,Abassi,M,25,20,Face-to-face
+SDSU,Fall 2023,UGRD,7672,A E,341,Fluid Mechanics Lab,1009,37953,1,EIS010,10:00 AM,11:40 AM,F,,,25,9,Face-to-face
+SDSU,Fall 2023,UGRD,7672,A E,341,Fluid Mechanics Lab,1009,37953,1,E427,9:00 AM,9:50 AM,F,Tobita,Y,25,9,Face-to-face
+SDSU,Fall 2023,UGRD,7673,A E,341,Fluid Mechanics Lab,1010,37953,1,EIS010,2:00 PM,3:40 PM,F,,,25,16,Face-to-face
+SDSU,Fall 2023,UGRD,7673,A E,341,Fluid Mechanics Lab,1010,37953,1,E427,1:00 PM,1:50 PM,F,Tobita,Y,25,16,Face-to-face
+SDSU,Fall 2023,UGRD,7674,A E,499,Special Study,1005,33692,1,,,,ARR,Demasi,L,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7675,A E,499,Special Study,1006,33692,1,,,,ARR,Jacobs,G,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7676,A E,499,Special Study,1007,33692,1,,,,ARR,Katz,J,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7677,A E,499,Special Study,1008,33692,1,,,,ARR,Venkataraman,S,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7678,A E,499,Special Study,1009,33692,1,,,,ARR,Liu,X,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7679,A E,499,Special Study,1010,33692,1,,,,ARR,Bani Younes,A,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7680,A E,499,Special Study,1011,33692,1,,,,ARR,Chen,J,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7681,A E,499,Special Study,1012,33692,1,,,,ARR,Popov,P,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7682,A E,499,Special Study,1013,33692,1,,,,ARR,Capriotti,M,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7683,A E,499,Special Study,1014,33692,1,,,,ARR,Lu,P,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7684,A E,499,Special Study,2001,33692,2,,,,ARR,Demasi,L,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7685,A E,499,Special Study,2002,33692,2,,,,ARR,Jacobs,G,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7801,CIV E,797,Independent Research,3001,23594,3,,,,ARR,Zhao,D,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7802,CIV E,797,Independent Research,3002,23594,3,,,,ARR,Alves,T,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7803,CIV E,797,Independent Research,3003,23594,3,,,,ARR,Faraone,G,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7804,CIV E,797,Independent Research,3004,23594,3,,,,ARR,Bayasi,M,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7805,CIV E,797,Independent Research,3005,23594,3,,,,ARR,Ghanipoor Machiani,S,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7806,CIV E,797,Independent Research,3006,23594,3,,,,ARR,Dowell,R,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7807,CIV E,797,Independent Research,3007,23594,3,,,,ARR,Valdes,J,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7808,CIV E,797,Independent Research,3008,23594,3,,,,ARR,Mitropoulos,P,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7809,CIV E,797,Independent Research,3009,23594,3,,,,ARR,Kinoshita,A,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7810,CIV E,797,Independent Research,3010,23594,3,,,,ARR,Davani,H,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7811,CIV E,797,Independent Research,3011,23594,3,,,,ARR,Jahangiri,A,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7812,CIV E,797,Independent Research,3012,23594,3,,,,ARR,Miletic,M,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7813,CIV E,797,Independent Research,3013,23594,3,,,,ARR,Akhavian,R,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7831,CIV E,798,Special Study,3006,23595,3,,,,ARR,Dowell,R,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7833,CIV E,798,Special Study,3007,23595,3,,,,ARR,Valdes,J,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7834,CIV E,798,Special Study,3008,23595,3,,,,ARR,Mitropoulos,P,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7836,CIV E,798,Special Study,3009,23595,3,,,,ARR,Kinoshita,A,5,1,Face-to-face
+SDSU,Fall 2023,GRAD,7837,CIV E,798,Special Study,3010,23595,3,,,,ARR,Davani,H,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7838,CIV E,798,Special Study,3011,23595,3,,,,ARR,Jahangiri,A,5,1,Face-to-face
+SDSU,Fall 2023,GRAD,7839,CIV E,798,Special Study,3012,23595,3,,,,ARR,Miletic,M,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7841,CIV E,798,Special Study,3013,23595,3,,,,ARR,Akhavian,R,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,7842,CIV E, 799A,Thesis or Project,1001,23596,3,,,,ARR,Grad,O,1,0,Face-to-face
+SDSU,Fall 2023,GRAD,7843,CIV E, 799B,Thesis or Project Exten,1001,23597,0,,,,ARR,Grad,O,1,0,Face-to-face
+SDSU,Fall 2023,GRAD,11104,A E,696,Exprmntl Fluid Dynamics,1001,35157,2,P147,7:00 PM,8:15 PM,TR,Liu,X,40,5,Face-to-face
+SDSU,Fall 2023,UGRD,7698,A E,499,Special Study,3004,33692,3,,,,ARR,Venkataraman,S,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7700,CIV E,499,Special Study,3001,23434,3,,,,ARR,Zhao,D,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,7702,CIV E,499,Special Study,3002,23434,3,,,,ARR,Alves,T,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7703,CIV E,499,Special Study,3003,23434,3,,,,ARR,Faraone,G,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7704,CIV E,499,Special Study,3004,23434,3,,,,ARR,Bayasi,M,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7705,CIV E,499,Special Study,3005,23434,3,,,,ARR,Ghanipoor Machiani,S,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7706,CIV E,499,Special Study,3006,23434,3,,,,ARR,Dowell,R,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7707,CIV E,499,Special Study,3007,23434,3,,,,ARR,Valdes,J,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7708,CIV E,499,Special Study,3008,23434,3,,,,ARR,Mitropoulos,P,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7709,CIV E,499,Special Study,3009,23434,3,,,,ARR,Kinoshita,A,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7710,CIV E,499,Special Study,3010,23434,3,,,,ARR,Davani,H,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,8517,A E,798,Special Study,3007,21,3,,,,ARR,Bani Younes,A,5,1,Face-to-face
+SDSU,Fall 2023,GRAD,8522,A E,798,Special Study,3008,21,3,,,,ARR,Chen,J,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,8524,A E,798,Special Study,3009,21,3,,,,ARR,Popov,P,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,8525,A E,798,Special Study,3010,21,3,,,,ARR,Capriotti,M,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,7005,CIV E,218,Survey Civ Eng & Constrct,1003,37900,1,E201,8:00 AM,10:40 AM,F,Urquhart,B,25,12,Face-to-face
+SDSU,Fall 2023,UGRD,7006,CIV E,218,Survey Civ Eng & Constrct,2001,37900,2,SSW2532,5:00 PM,6:40 PM,R,Farmer,B,50,27,Face-to-face
+SDSU,Fall 2023,UGRD,7007,CIV E,218,Survey Civ Eng & Constrct,2002,37900,1,NE172,2:00 PM,2:50 PM,T,,,25,13,Face-to-face
+SDSU,Fall 2023,UGRD,7007,CIV E,218,Survey Civ Eng & Constrct,2002,37900,1,E103C,3:00 PM,4:40 PM,T,Farmer,B,25,13,Face-to-face
+SDSU,Fall 2023,UGRD,7009,CIV E,218,Survey Civ Eng & Constrct,2003,37900,1,LH247,2:00 PM,2:50 PM,R,,,25,14,Face-to-face
+SDSU,Fall 2023,UGRD,7009,CIV E,218,Survey Civ Eng & Constrct,2003,37900,1,E103C,3:00 PM,4:40 PM,R,Farmer,B,25,14,Face-to-face
+SDSU,Fall 2023,UGRD,7011,CIV E,220,CEE Computer App,1001,31785,1,GMCS333,9:00 AM,9:50 AM,W,Parsons,T,235,198,Face-to-face
+SDSU,Fall 2023,UGRD,7012,CIV E,220,CEE Computer App,1002,31785,2,PS231,11:00 AM,12:40 PM,R,Parsons,T,47,47,Face-to-face
+SDSU,Fall 2023,UGRD,7094,CIV E,444,Applied Hydraulics,1001,37146,2,E300,9:00 AM,9:50 AM,MW,Zink,T,35,16,Face-to-face
+SDSU,Fall 2023,UGRD,7096,CIV E,444,Applied Hydraulics,1002,37146,1,E300,9:00 AM,9:50 AM,F,Zink,T,35,16,Face-to-face
+SDSU,Fall 2023,UGRD,7096,CIV E,444,Applied Hydraulics,1002,37146,1,EIS008,10:00 AM,11:40 AM,F,Zink,T,35,16,Face-to-face
+SDSU,Fall 2023,UGRD,7224,CIV E,525,Design of Steel Structure,1001,23438,3,P148,5:30 PM,6:45 PM,TR,Bayasi,M,50,30,Face-to-face
+SDSU,Fall 2023,UGRD,7226,CIV E,530,Open Channel Hydraulics,1001,32025,2,LSS365,7:00 PM,8:50 PM,M,Goodarzi,E,40,30,Face-to-face
+SDSU,Fall 2023,UGRD,7227,CIV E,530,Open Channel Hydraulics,1002,32025,1,EIS008,7:00 PM,9:40 PM,T,Goodarzi,E,40,30,Face-to-face
+SDSU,Fall 2023,UGRD,7230,CIV E,580,Traffic Engineerng Design,1001,23440,3,GMCS309,7:00 PM,9:40 PM,W,Saft,L,60,44,Face-to-face
+SDSU,Fall 2023,UGRD,7231,CIV E,596,Intro Coastal Engineering,1001,39597,3,E427,12:00 PM,12:50 PM,MWF,Sepulveda Oyarzun,I,40,14,Face-to-face
+SDSU,Fall 2023,UGRD,7114,CIV E,463,Geotechnical Engr Lab,1001,34028,1,EIS014,1:00 PM,1:50 PM,T,Cabrera,J,25,10,Face-to-face
+SDSU,Fall 2023,UGRD,7114,CIV E,463,Geotechnical Engr Lab,1001,34028,1,EIS014,2:00 PM,3:40 PM,W,Cabrera,J,25,10,Face-to-face
+SDSU,Fall 2023,UGRD,7119,CIV E,463,Geotechnical Engr Lab,1002,34028,1,EIS014,2:00 PM,3:40 PM,R,Valdes,J,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7119,CIV E,463,Geotechnical Engr Lab,1002,34028,1,LSN134,1:00 PM,1:50 PM,R,Valdes,J,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7120,CIV E,463,Geotechnical Engr Lab,1003,34028,1,EIS014,10:00 AM,10:50 AM,T,Cabrera,J,25,17,Face-to-face
+SDSU,Fall 2023,UGRD,7120,CIV E,463,Geotechnical Engr Lab,1003,34028,1,EIS014,11:00 AM,12:40 PM,W,Cabrera,J,25,17,Face-to-face
+SDSU,Fall 2023,UGRD,7121,CIV E,463,Geotechnical Engr Lab,1004,34028,1,EIS014,12:00 PM,1:40 PM,F,Valdes,J,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7121,CIV E,463,Geotechnical Engr Lab,1004,34028,1,GMCS305,11:00 AM,11:50 AM,F,Valdes,J,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,7123,CIV E,481,Transportion Engineering,1001,31788,3,E423B,11:00 AM,12:15 PM,TR,Lakrori,N,40,29,Face-to-face
+SDSU,Fall 2023,UGRD,7162,CIV E,482,Highway Engineering,1001,23426,2,P149,5:00 PM,6:40 PM,M,Amen,S,36,35,Face-to-face
+SDSU,Fall 2023,UGRD,7163,CIV E,482,Highway Engineering,1002,23426,1,PS231,5:00 PM,7:40 PM,W,Amen,S,36,35,Face-to-face
+SDSU,Fall 2023,UGRD,7163,CIV E,482,Highway Engineering,1002,23426,1,PS231,5:00 PM,7:40 PM,W,Williams,E,36,35,Face-to-face
+SDSU,Fall 2023,UGRD,11907,CON E,401,Constr Planning & Sched,2003,37982,1,PS231,9:00 AM,10:40 AM,W,Mitropoulos,P,40,18,Face-to-face
+SDSU,Fall 2023,UGRD,11951,M E,596,Battery Science,1002,37736,3,LL406,9:30 AM,10:45 AM,TR,Kong,L,49,27,Face-to-face
+SDSU,Fall 2023,GRAD,12062,M E,797,Research,3006,2344,3,,,,ARR,Nili Ahmadabadi,Z,10,0,Face-to-face
+SDSU,Fall 2023,GRAD,12064,M E, 799A,Thesis or Project,1002,2346,3,,,,ARR,Nili Ahmadabadi,Z,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,11132,M E, 490W,Senior Projects I,5002,41156,2,EIS106,3:00 PM,5:40 PM,W,Correa,O,45,16,Face-to-face
+SDSU,Fall 2023,GRAD,12728,A E, 799A,Thesis,3,22,3,,,,ARR,Sanchez,C,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,12728,A E, 799A,Thesis,3,22,3,,,,ARR,Dallo,B,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,12728,A E, 799A,Thesis,3,22,3,,,,ARR,Flandez,A,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,12728,A E, 799A,Thesis,3,22,3,,,,ARR,Fakhoury,S,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,12728,A E, 799A,Thesis,3,22,3,,,,ARR,Chen,J,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,12773,A E, 799A,Thesis,4,22,3,,,,ARR,Sanchez,C,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,12773,A E, 799A,Thesis,4,22,3,,,,ARR,Dallo,B,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,12773,A E, 799A,Thesis,4,22,3,,,,ARR,Flandez,A,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,12773,A E, 799A,Thesis,4,22,3,,,,ARR,Fakhoury,S,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,12773,A E, 799A,Thesis,4,22,3,,,,ARR,Katz,J,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,13090,CIV E,631,Spatial Hydrology,2,35835,3,LL406,7:00 PM,9:40 PM,W,Edgley,R,25,9,Face-to-face
+SDSU,Fall 2023,GRAD,13159,M E, 799B,Thesis or Project Exten,3,2347,0,,,,ARR,Nili Ahmadabadi,Z,10,0,Face-to-face
+SDSU,Fall 2023,GRAD,12619,A E, 799A,Thesis,2,22,3,,,,ARR,Dallo,B,10,2,Face-to-face
+SDSU,Fall 2023,GRAD,12619,A E, 799A,Thesis,2,22,3,,,,ARR,Bani Younes,A,10,2,Face-to-face
+SDSU,Fall 2023,GRAD,12619,A E, 799A,Thesis,2,22,3,,,,ARR,Sanchez,C,10,2,Face-to-face
+SDSU,Fall 2023,GRAD,12619,A E, 799A,Thesis,2,22,3,,,,ARR,Flandez,A,10,2,Face-to-face
+SDSU,Fall 2023,GRAD,12619,A E, 799A,Thesis,2,22,3,,,,ARR,Fakhoury,S,10,2,Face-to-face
+GLBL,Fall 2023,UGRD,12886,CIV E,100,Intro to Civil Engineerng,2,25092,1,OFFCSDSU,,,ARR,Balavadze,V,150,0,Face-to-face
+GLBL,Fall 2023,UGRD,12886,CIV E,100,Intro to Civil Engineerng,2,25092,1,OFFCSDSU,,,ARR,Sarkar,M,150,0,Face-to-face
+GLBL,Fall 2023,UGRD,12886,CIV E,100,Intro to Civil Engineerng,2,25092,1,OFFCSDSU,,,ARR,Pantsulaia,N,150,0,Face-to-face
+GLBL,Fall 2023,UGRD,12886,CIV E,100,Intro to Civil Engineerng,2,25092,1,OFFCSDSU,,,ARR,Cortes,I,150,0,Face-to-face
+SDSU,Fall 2023,GRAD,11690,M E,797,Research,3002,2344,3,,,,ARR,Kassegne,S,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,11691,M E,797,Research,3003,2344,3,,,,ARR,Miller,F,10,0,Face-to-face
+SDSU,Fall 2023,GRAD,9316,CIV E,640,Advanced Soil Mechanics,1001,23459,3,E328,7:00 PM,9:40 PM,R,Meneses,J,30,15,Face-to-face
+SDSU,Fall 2023,UGRD,11847,CIV E,528,Masonry Structures Design,1002,24291,3,E423B,5:30 PM,6:45 PM,TR,Alnuaimi,A,49,24,Face-to-face
+SDSU,Fall 2023,UGRD,11848,CON E,240,Intro Construct Materials,1002,37975,3,P148,4:00 PM,5:15 PM,TR,Bayasi,M,50,50,Face-to-face
+SDSU,Fall 2023,UGRD,10988,A E,331,Feedback Flight Control,1002,38492,3,PSFA350,5:30 PM,6:45 PM,TR,Amini,B,50,47,Face-to-face
+GLBL,Fall 2023,UGRD,12347,CIV E,220,CEE Computer App,1,31785,1,ONLINE,,,ARR,Parsons,T,30,18,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12348,CIV E,220,CEE Computer App,2,31785,2,ONLINE,,,ARR,Parsons,T,30,18,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12349,CON E,480,Design of Temp Structures,1,31187,3,ONLINE,,,ARR,Lakrori,N,30,9,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12350,CON E,401,Constr Planning & Sched,1,37982,2,ONLINE,,,ARR,Mitropoulos,P,30,9,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12351,CON E,401,Constr Planning & Sched,2,37982,1,ONLINE,,,ARR,Mitropoulos,P,30,9,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12352,CIV E,444,Applied Hydraulics,1,37146,2,ONLINE,,,ARR,Davani,H,30,13,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12353,CIV E,444,Applied Hydraulics,2,37146,1,ONLINE,,,ARR,Davani,H,30,13,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12354,CIV E,462,Geotechnical Engineering,1,23421,3,ONLINE,,,ARR,Valdes,J,30,12,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12355,CON E,240,Intro Construct Materials,1,37975,3,ONLINE,,,ARR,Castellanos,C,30,16,Asynchronous no meetings AB386
+GLBL,Fall 2023,UGRD,12356,CIV E,225,Mechanics for Civil Engin,1,37971,3,ONLINE,,,ARR,Schraff,A,30,20,Asynchronous no meetings AB386
+SDSU,Fall 2023,GRAD,12794,M E, 799B,Thesis or Project Exten,2,2347,0,,,,ARR,May-Newman,K,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,12794,M E, 799B,Thesis or Project Exten,2,2347,0,,,,ARR,Dallo,B,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,12794,M E, 799B,Thesis or Project Exten,2,2347,0,,,,ARR,Sanchez,C,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,12794,M E, 799B,Thesis or Project Exten,2,2347,0,,,,ARR,Flandez,A,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,12794,M E, 799B,Thesis or Project Exten,2,2347,0,,,,ARR,Fakhoury,S,10,1,Face-to-face
+SDSU,Fall 2023,UGRD,12810,A E, 460A,Aerosp Engr Applications,3001,36811,1,M245,8:00 AM,8:50 AM,M,Machuca Varela,P,30,0,Face-to-face
+SDSU,Fall 2023,GRAD,13152,A E, 799A,Thesis,5,22,3,,,,ARR,Sanchez,C,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,13152,A E, 799A,Thesis,5,22,3,,,,ARR,Dallo,B,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,13152,A E, 799A,Thesis,5,22,3,,,,ARR,Flandez,A,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,13152,A E, 799A,Thesis,5,22,3,,,,ARR,Fakhoury,S,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,13152,A E, 799A,Thesis,5,22,3,,,,ARR,Capriotti,M,10,1,Face-to-face
+SDSU,Fall 2023,UGRD,11887,E E, 458L,Communication & Dsp Lab,3001,34034,1,E101F,12:30 PM,3:10 PM,W,Baskar,H,12,6,Face-to-face
+SDSU,Fall 2023,GRAD,11888,E E,654,Adaptive Filter Design,1002,37310,3,GMCS308,5:30 PM,6:45 PM,TR,Ashrafi,A,20,8,Face-to-face
+SDSU,Fall 2023,GRAD,11689,M E,797,Research,3001,2344,3,,,,ARR,May-Newman,K,10,1,Face-to-face
+SDSU,Fall 2023,UGRD,11735,CON E,499,Special Study,1002,29421,1,,,,ARR,Alves,T,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,12201,CIV E,481,Transportion Engineering,1003,31788,3,AH2113,9:30 AM,10:45 AM,TR,Ghanipoor Machiani,S,40,20,Face-to-face
+SDSU,Fall 2023,UGRD,12992,CIV E, 495W,Capstone Design Project,1003,41151,2,PSFA310,2:00 PM,4:40 PM,F,Haughey,J,75,0,Face-to-face
+SDSU,Fall 2023,UGRD,12992,CIV E, 495W,Capstone Design Project,1003,41151,2,PSFA310,2:00 PM,4:40 PM,F,Prince,J,75,0,Face-to-face
+GLBL,Fall 2023,UGRD,12333,CIV E,481,Transportion Engineering,1,31788,3,ONLINE,,,ARR,Lakrori,N,30,9,Asynchronous no meetings AB386
+SDSU,Fall 2023,UGRD,12692,CIV E,301,Intro to Solid Mechanics,3,37901,3,E300,5:30 PM,6:45 PM,MW,Dowell,R,40,24,Face-to-face
+SDSU,Fall 2023,UGRD,12942,A E,596,Turbomach Dsgn Aerothermo,1001,36328,3,PSFA326,7:00 PM,8:15 PM,TR,Rehman,S,25,6,Face-to-face
+SDSU,Fall 2023,GRAD,11860,M E,797,Research,3004,2344,3,,,,ARR,Youssef,G,10,1,Face-to-face
+SDSU,Fall 2023,GRAD,11861,M E,797,Research,3005,2344,3,,,,ARR,Kang,S,10,2,Face-to-face
+SDSU,Fall 2023,GRAD,11861,M E,797,Research,3005,2344,3,,,,ARR,Kang,S,10,2,Face-to-face
+SDSU,Fall 2023,GRAD,11873,CIV E,632,Computational Hydraulics,1001,23454,3,GMCS309,10:00 AM,10:50 AM,MWF,Sepulveda Oyarzun,I,30,2,Face-to-face
+SDSU,Fall 2023,UGRD,12128,E E,340,Electric & Magnetic Field,1002,39337,3,NE175,3:00 PM,3:50 PM,MWF,Yamada,H,40,8,Face-to-face
+SDSU,Fall 2023,UGRD,2678,COMPE,160,Intro to Computer Prog,2003,38495,1,PS231,9:00 AM,11:40 AM,F,Tian,J,25,25,Face-to-face
+SDSU,Fall 2023,GRAD,2732,E E,797,Research,1001,29826,1,,,,ARR,Sharma,S,5,3,Face-to-face
+SDSU,Fall 2023,GRAD,2733,E E,797,Research,3010,29826,3,,,,ARR,Nagaraj,S,5,1,Face-to-face
+SDSU,Fall 2023,GRAD,2734,E E,797,Research,3011,29826,3,,,,ARR,Nguyen,H,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,2735,E E,797,Research,3012,29826,3,,,,ARR,Ozturk,Y,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,2736,E E,797,Research,3013,29826,3,,,,ARR,Paolini,C,5,1,Face-to-face
+SDSU,Fall 2023,GRAD,2737,E E,797,Research,3014,29826,3,,,,ARR,Sabzehgar,R,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,2229,COMPE,561,Database and Web Progrmng,1001,27879,3,LH347,5:30 PM,6:45 PM,MW,Dogan,U,80,57,Face-to-face
+SDSU,Fall 2023,UGRD,2230,COMPE,565,Multimedia Comm Systems,1001,23229,3,GMCS324,2:00 PM,3:15 PM,MW,Kumar,S,55,17,Face-to-face
+SDSU,Fall 2023,UGRD,2231,COMPE,570,Vlsi System Design,1001,39286,3,AH3110,12:30 PM,1:45 PM,TR,Alimohammad,A,49,18,Face-to-face
+SDSU,Fall 2023,UGRD,2232,COMPE,571,Embedded Operating Sys,1001,38641,3,GMCS301,4:00 PM,5:15 PM,MW,Aksanli,B,70,54,Face-to-face
+SDSU,Fall 2023,UGRD,2234,COMPE,596,Machn Lrning for Engnrng,1001,38577,3,LSS365,4:00 PM,5:15 PM,TR,Xie,J,55,42,Face-to-face
+SDSU,Fall 2023,GRAD,2390,E E,674,Signal and Power Integrty,1001,35038,3,AH3130,4:00 PM,5:15 PM,TR,Engin,A,25,15,Face-to-face
+SDSU,Fall 2023,UGRD,2391,COMPE, 470L,Digital Logic Laboratory,1001,19837,1,E207,12:00 PM,2:40 PM,W,Pantskalashvili,L,30,19,Face-to-face
+SDSU,Fall 2023,UGRD,2392,COMPE, 470L,Digital Logic Laboratory,2001,19837,1,E207,9:00 AM,11:40 AM,W,Huang,K,30,15,Face-to-face
+SDSU,Fall 2023,UGRD,2393,COMPE, 470L,Digital Logic Laboratory,3001,19837,1,E207,12:00 PM,2:40 PM,M,Pantskalashvili,L,30,11,Face-to-face
+SDSU,Fall 2023,UGRD,2394,E E,296,Electric Circuit Lab,1001,38588,1,E202F,1:00 PM,3:40 PM,M,,,22,0,Face-to-face
+SDSU,Fall 2023,GRAD,8508,A E,798,Special Study,3003,21,3,,,,ARR,Jacobs,G,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,8513,A E,798,Special Study,3004,21,3,,,,ARR,Katz,J,5,0,Face-to-face
+SDSU,Fall 2023,GRAD,8514,A E,798,Special Study,3005,21,3,,,,ARR,Venkataraman,S,5,1,Face-to-face
+SDSU,Fall 2023,GRAD,8516,A E,798,Special Study,3006,21,3,,,,ARR,Lu,P,5,0,Face-to-face
+SDSU,Fall 2023,UGRD,2814,E E,499,Special Study,3005,1098,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,5870,A E,430,Aircraft Propulsion Syst,1001,38494,3,HH130,5:30 PM,6:45 PM,TR,Popov,P,120,103,Face-to-face
+SDSU,Fall 2023,UGRD,5871,A E,440,Aircraft Stabil&Contrl I,1001,39409,3,SSE1401,7:00 PM,8:15 PM,MW,Butler,G,120,92,Face-to-face
+SDSU,Fall 2023,UGRD,5875,A E, 460A,Aerosp Engr Applications,1001,36811,1,SH127,4:00 PM,4:50 PM,M,Butler,G,55,50,Face-to-face
+SDSU,Fall 2023,UGRD,5876,A E, 460A,Aerosp Engr Applications,1002,36811,1,SH127,5:00 PM,5:50 PM,M,Butler,G,55,50,Face-to-face
+SDSU,Fall 2023,UGRD,5877,A E, 460A,Aerosp Engr Applications,1003,36811,1,SH127,6:00 PM,6:50 PM,M,Butler,G,55,50,Face-to-face
+SDSU,Fall 2023,UGRD,11250,E E,558,Digital Communications,1,26877,3,LH445,2:00 PM,3:15 PM,TR,Ratnarajah,T,20,19,Face-to-face
+SDSU,Fall 2023,UGRD,7252,CON E,401,Constr Planning & Sched,1002,37982,1,PS231,11:00 AM,12:40 PM,M,Lakrori,N,30,29,Face-to-face
+SDSU,Fall 2023,UGRD,7253,CON E,401,Constr Planning & Sched,1003,37982,1,PS231,11:00 AM,12:40 PM,W,Lakrori,N,30,29,Face-to-face
+SDSU,Fall 2023,UGRD,7255,CON E,401,Constr Planning & Sched,2001,37982,2,SSW2650,11:00 AM,11:50 AM,MW,Mitropoulos,P,40,18,Face-to-face
+SDSU,Fall 2023,GRAD,7258,CON E,653,Const Sched,1001,29488,3,AH3130,3:30 PM,6:10 PM,W,Mitropoulos,P,30,8,Face-to-face
+SDSU,Fall 2023,UGRD,6719,COMPE,160,Intro to Computer Prog,2004,38495,1,E207,12:30 PM,1:50 PM,TR,Tian,J,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,6773,M E,314,Engr Design:Mech Compon,1001,37994,3,OP201,7:00 PM,8:15 PM,MW,Ayala,R,90,85,Face-to-face
+SDSU,Fall 2023,UGRD,6774,M E,330,Mechatronics Laboratory,1001,39295,2,EIS106,4:00 PM,5:50 PM,T,Moon,K,60,57,Face-to-face
+SDSU,Fall 2023,UGRD,6775,M E,330,Mechatronics Laboratory,1002,39295,1,E221,6:00 PM,8:40 PM,T,Wield,P,60,57,Face-to-face
+SDSU,Fall 2023,UGRD,6776,M E,330,Mechatronics Laboratory,2001,39295,2,E221,4:00 PM,5:50 PM,R,Moon,K,60,39,Face-to-face
+SDSU,Fall 2023,UGRD,6778,M E,330,Mechatronics Laboratory,2002,39295,1,E221,6:00 PM,8:40 PM,R,Wield,P,60,39,Face-to-face
+SDSU,Fall 2023,UGRD,6780,M E,350,Thermodynamics,1001,37998,3,GMCS301,2:00 PM,3:15 PM,MW,Beyene,A,90,90,Face-to-face
+SDSU,Fall 2023,UGRD,11113,CIV E, 495W,Capstone Design Project,2001,41151,1,HH130,4:00 PM,4:50 PM,F,Lahaye,J,60,26,Face-to-face
+SDSU,Fall 2023,UGRD,11121,E E, 492W,Senior Design B,1001,41155,1,SHW011,1:00 PM,2:15 PM,F,Dorr,B,40,39,Face-to-face
+SDSU,Fall 2023,UGRD,11117,COMPE, 492W,Senior Design Project B,1001,41153,1,SHW011,1:00 PM,2:15 PM,F,Dorr,B,30,25,Face-to-face
+SDSU,Fall 2023,UGRD,11109,A E, 403W,Aero Engr Senior Project,1002,41150,2,SH105,12:00 PM,2:40 PM,TR,Katz,J,50,27,Face-to-face
+SDSU,Fall 2023,UGRD,11119,E E, 491W,Senior Design A,1001,41154,1,SHW011,1:00 PM,2:15 PM,F,Dorr,B,70,62,Face-to-face
+SDSU,Fall 2023,UGRD,11124,M E, 490W,Senior Projects I,1002,41156,2,EIS106,10:00 AM,12:40 PM,W,Shaffar,S,45,45,Face-to-face
+SDSU,Fall 2023,UGRD,11204,M E,596,Additive Manufacturing,1001,41104,3,AL204,5:30 PM,6:45 PM,MW,Yang,Y,60,40,Face-to-face
+SDSU,Fall 2023,UGRD,11132,M E, 490W,Senior Projects I,5002,41156,2,EIS106,3:00 PM,5:40 PM,W,Shaffar,S,45,16,Face-to-face
+SDSU,Fall 2023,UGRD,11111,CIV E, 495W,Capstone Design Project,1001,41151,1,BT161,1:00 PM,1:50 PM,F,Prince,J,75,0,Face-to-face
+SDSU,Fall 2023,UGRD,11123,M E, 490W,Senior Projects I,1001,41156,1,EIS106,9:00 AM,9:50 AM,W,Shaffar,S,45,45,Face-to-face
+SDSU,Fall 2023,UGRD,11114,CIV E, 495W,Capstone Design Project,2002,41151,2,PS130,1:00 PM,3:40 PM,F,Filanc,M,60,26,Face-to-face
+SDSU,Fall 2023,UGRD,11118,COMPE, 492W,Senior Design Project B,1002,41153,1,M245,9:00 AM,11:50 AM,W,Dorr,B,25,25,Face-to-face
+SDSU,Fall 2023,UGRD,11120,E E, 491W,Senior Design A,1002,41154,1,SHW011,10:00 AM,12:50 PM,F,Dorr,B,70,62,Face-to-face
+SDSU,Fall 2023,UGRD,4417,COMPE,499,Special Study,3005,19841,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,4414,COMPE,499,Special Study,3002,19841,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,4416,COMPE,499,Special Study,3004,19841,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,7225,CIV E,528,Masonry Structures Design,1001,24291,3,,,,,,,49,0,Face-to-face
+SDSU,Fall 2023,UGRD,9315,CIV E,531,Pipe Flow & Wtr Dist Sys,1001,35082,3,,,,,,,25,0,Face-to-face
+SDSU,Fall 2023,UGRD,5886,A E,596,Intro Systems Engineering,1001,33914,3,,,,,,,25,0,Face-to-face
+SDSU,Fall 2023,UGRD,7228,CIV E,545,Field Hydrology,1001,35889,2,,,,,,,15,0,Face-to-face
+SDSU,Fall 2023,UGRD,7229,CIV E,545,Field Hydrology,1002,35889,1,,,,,,,15,0,Face-to-face
+SDSU,Fall 2023,GRAD,7232,CIV E,610,Finite Element Anal Struc,1001,23449,3,,,,,,,30,0,Face-to-face
+SDSU,Fall 2023,GRAD,7234,CIV E,696,Soil Multi-Physics,1001,38575,3,,,,,,,30,0,Face-to-face
+SDSU,Fall 2023,GRAD,2387,E E,655,Modem Design,1001,36637,3,,,,,,,20,0,Face-to-face
+SDSU,Fall 2023,UGRD,2233,COMPE,572,Vlsi Circuit Design,1001,19843,3,,,,,,,62,0,Face-to-face
+SDSU,Fall 2023,UGRD,11127,M E, 490W,Senior Projects I,3001,41156,1,,,,,,,45,0,Face-to-face
+SDSU,Fall 2023,UGRD,2237,E E,204,Princ Electrical Engr,1001,14641,3,,,,,,,60,0,Face-to-face
+SDSU,Fall 2023,GRAD,2386,E E,654,Adaptive Filter Design,1001,37310,3,,,,,,,30,0,Face-to-face
+SDSU,Fall 2023,UGRD,2380,E E,586,Der & Smart Grids,1001,39142,3,,,,,,,40,0,Face-to-face
+SDSU,Fall 2023,GRAD,2382,E E,601,Linear Sys Theory & Desgn,2001,30645,3,,,,,,,40,0,Face-to-face
+SDSU,Fall 2023,UGRD,7124,CIV E,481,Transportion Engineering,1002,31788,3,,,,,,,40,0,Face-to-face
+SDSU,Fall 2023,UGRD,6517,M E,200,Statics,1001,36647,3,,,,,,,75,0,Face-to-face
+SDSU,Fall 2023,UGRD,6831,M E,554,Automotive Power,1001,38714,3,,,,,,,49,0,Face-to-face
+SDSU,Fall 2023,GRAD,6844,M E,685,Mems Design & Application,1001,25221,3,,,,,,,40,0,Face-to-face
+SDSU,Fall 2023,GRAD,5940,A E,644,Turbulent Flow,1001,34279,3,,,,,,,40,0,Face-to-face
+SDSU,Fall 2023,GRAD,6849,M E,696,Atomistic Mod of Engr Mat,1001,39019,3,,,,,,,40,0,Face-to-face
+SDSU,Fall 2023,UGRD,11112,CIV E, 495W,Capstone Design Project,1002,41151,2,,,,,,,75,0,Face-to-face
+SDSU,Fall 2023,UGRD,7240,CON E,240,Intro Construct Materials,1001,37975,3,,,,,,,40,0,Face-to-face
+SDSU,Fall 2023,GRAD,5945,A E,661,Intro Stat Dyn Aeroelstcy,1001,39324,3,,,,,,,25,0,Face-to-face
+SDSU,Fall 2023,GRAD,7235,CIV E,697,Traffic Sig Sys Ops & Con,1001,36635,3,,,,,,,8,0,Face-to-face
+SDSU,Fall 2023,UGRD,5812,A E,302,High Speed Aerodynamics,1001,39283,3,,,,,,,100,0,Face-to-face
+SDSU,Fall 2023,GRAD,5935,A E,631,Analysis Elastic Plates,1001,34276,3,,,,,,,40,0,Face-to-face
+SDSU,Fall 2023,UGRD,6798,M E,452,Princ of Heat Transfer,1002,38000,3,,,,,,,40,0,Face-to-face
+SDSU,Fall 2023,UGRD,11128,M E, 490W,Senior Projects I,3002,41156,2,,,,,,,45,0,Face-to-face
+SDSU,Fall 2023,UGRD,6796,M E,452,Princ of Heat Transfer,1001,38000,3,,,,,,,64,0,Face-to-face
+SDSU,Fall 2023,UGRD,7256,CON E,401,Constr Planning & Sched,2002,37982,1,,,,,,,40,0,Face-to-face
+SDSU,Fall 2023,GRAD,12540,CIV E,631,Spatial Hydrology,1,35835,3,,,,,,,25,0,Face-to-face
+SDSU,Fall 2023,GRAD,11801,CIV E,608,Earthquake Engineering,1001,23448,3,,,,,,,35,0,Face-to-face
+SDSU,Fall 2023,UGRD,11721,M E,596,Battery Science,1001,37736,3,,,,,,,49,0,Face-to-face
+SDSU,Fall 2023,UGRD,4413,COMPE,499,Special Study,3001,19841,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,4415,COMPE,499,Special Study,3003,19841,3,,,,ARR,,,10,0,Face-to-face
+SDSU,Fall 2023,UGRD,11114,CIV E, 495W,Capstone Design Project,2002,41151,2,PS130,1:00 PM,3:40 PM,F,Lahaye,J,60,26,Face-to-face
+SDSU,Fall 2023,UGRD,11129,M E, 490W,Senior Projects I,4001,41156,1,EIS106,2:00 PM,2:50 PM,M,Shaffar,S,45,22,Face-to-face
+SDSU,Fall 2023,UGRD,11115,COMPE, 491W,Senior Design Project A,1001,41152,1,SHW011,1:00 PM,2:15 PM,F,Dorr,B,45,44,Face-to-face
+SDSU,Fall 2023,UGRD,11113,CIV E, 495W,Capstone Design Project,2001,41151,1,HH130,4:00 PM,4:50 PM,F,Filanc,M,60,26,Face-to-face
+SDSU,Fall 2023,UGRD,11122,E E, 492W,Senior Design B,1002,41155,1,M245,9:00 AM,11:50 AM,W,Dorr,B,40,39,Face-to-face
+SDSU,Fall 2023,UGRD,11125,M E, 490W,Senior Projects I,2001,41156,1,EIS106,9:00 AM,9:50 AM,M,Shaffar,S,45,45,Face-to-face
+SDSU,Fall 2023,UGRD,11116,COMPE, 491W,Senior Design Project A,1002,41152,1,SHW011,10:00 AM,12:50 PM,F,Dorr,B,45,44,Face-to-face
+SDSU,Fall 2023,UGRD,11108,A E, 403W,Aero Engr Senior Project,1001,41150,1,SH105,11:00 AM,11:50 AM,T,Katz,J,50,27,Face-to-face
+SDSU,Fall 2023,UGRD,11130,M E, 490W,Senior Projects I,4002,41156,2,EIS106,3:00 PM,5:40 PM,M,Shaffar,S,45,22,Face-to-face
+SDSU,Fall 2023,UGRD,11111,CIV E, 495W,Capstone Design Project,1001,41151,1,BT161,1:00 PM,1:50 PM,F,Haughey,J,75,0,Face-to-face
+SDSU,Fall 2023,UGRD,11126,M E, 490W,Senior Projects I,2002,41156,2,EIS106,10:00 AM,12:40 PM,M,Shaffar,S,45,45,Face-to-face
+SDSU,Fall 2023,UGRD,11131,M E, 490W,Senior Projects I,5001,41156,1,EIS106,2:00 PM,2:50 PM,W,Shaffar,S,45,16,Face-to-face
