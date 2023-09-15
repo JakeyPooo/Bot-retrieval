@@ -1,0 +1,5 @@
+Campus,Term,Career,Class Nbr,Subject,Catalog Nbr,Title,Class Section,Course ID,Component Units,Location,Meeting Start,Meeting End,Standard Meeting Pattern,Last Name,Initials,Enrollment Capacity,Enrollment Total,Learning Mode Descr
+SDSU,Fall 2023,UGRD,5679,A E,123,The Aerospace Engineer,1001,4039,1,HT140,1:00 PM,1:50 PM,W,Fogel,G,190,186,Face-to-face
+SDSU,Fall 2023,UGRD,6514,M E,190,Computer-Aided Design,6002,37991,1,E221,6:00 PM,8:40 PM,F,Lee,A,40,40,Face-to-face
+SDSU,Fall 2023,UGRD,6518,M E,200,Statics,2001,36647,3,HH214,9:30 AM,10:45 AM,TR,Adibi Sedeh,S,80,80,Face-to-face
+SDSU,Fall 2023,UGRD,6734,M E,220,Dynamics,1001,36648,3,SH123,4:00 PM,5:15 PM,MW,Naseradinmousavi,P,70,26,Face-to-face
